@@ -1,0 +1,44 @@
+{
+    "capec_total": 615,
+    "cwe_total": 969,
+    "capec_cwe_mappings": 450,
+    "families": {
+        "malware_backdoor": {
+            "display_name": "Malware / Backdoor Operations",
+            "capec_patterns": 107,
+            "cwe_weaknesses": 16,
+            "capec_cwe_mappings": 88
+        },
+        "social_engineering_credential_theft": {
+            "display_name": "Social Engineering & Credential Theft",
+            "capec_patterns": 111,
+            "cwe_weaknesses": 33,
+            "capec_cwe_mappings": 79
+        },
+        "ransomware_data_impact": {
+            "display_name": "Ransomware / Data Impact",
+            "capec_patterns": 44,
+            "cwe_weaknesses": 77,
+            "capec_cwe_mappings": 40
+        },
+        "web_injection": {
+            "display_name": "Web Injection",
+            "capec_patterns": 64,
+            "cwe_weaknesses": 54,
+            "capec_cwe_mappings": 57
+        },
+        "authentication_bruteforce": {
+            "display_name": "Authentication / Brute Force",
+            "capec_patterns": 106,
+            "cwe_weaknesses": 134,
+            "capec_cwe_mappings": 96
+        },
+        "dos_ddos_botnet_c2": {
+            "display_name": "DoS / DDoS & Botnet & C2 Operations",
+            "capec_patterns": 55,
+            "cwe_weaknesses": 190,
+            "capec_cwe_mappings": 50
+        }
+    },
+    "status": "PASS"
+}
