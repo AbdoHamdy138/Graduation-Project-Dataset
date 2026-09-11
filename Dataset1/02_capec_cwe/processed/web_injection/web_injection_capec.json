@@ -3838,5 +3838,105 @@
             "web_injection"
         ],
         "source": "CAPEC"
+    },
+    {
+        "capec_id": "N/A",
+        "name": "No CAPEC officially mapped to T1190",
+        "abstraction": "N/A",
+        "status": "N/A",
+        "description": "MITRE CAPEC does not provide a direct mapping for ATT&CK technique T1190. This is usually because the technique relates to post-compromise impact, lateral movement, or data exfiltration, rather than an initial attack pattern.",
+        "prerequisites": [],
+        "skills_required": [],
+        "resources_required": [],
+        "execution_flow": [],
+        "consequences": [],
+        "mitigations": [],
+        "related_cwe": [
+            "N/A"
+        ],
+        "related_capec": [],
+        "related_attack_techniques": [
+            "T1190"
+        ],
+        "references": [],
+        "families": [
+            "web_injection"
+        ],
+        "source": "Forced N/A Injection"
+    },
+    {
+        "capec_id": "N/A",
+        "name": "No CAPEC officially mapped to T1059.006",
+        "abstraction": "N/A",
+        "status": "N/A",
+        "description": "MITRE CAPEC does not provide a direct mapping for ATT&CK technique T1059.006. This is usually because the technique relates to post-compromise impact, lateral movement, or data exfiltration, rather than an initial attack pattern.",
+        "prerequisites": [],
+        "skills_required": [],
+        "resources_required": [],
+        "execution_flow": [],
+        "consequences": [],
+        "mitigations": [],
+        "related_cwe": [
+            "N/A"
+        ],
+        "related_capec": [],
+        "related_attack_techniques": [
+            "T1059.006"
+        ],
+        "references": [],
+        "families": [
+            "web_injection"
+        ],
+        "source": "Forced N/A Injection"
+    },
+    {
+        "capec_id": "N/A",
+        "name": "No CAPEC officially mapped to T1203",
+        "abstraction": "N/A",
+        "status": "N/A",
+        "description": "MITRE CAPEC does not provide a direct mapping for ATT&CK technique T1203. This is usually because the technique relates to post-compromise impact, lateral movement, or data exfiltration, rather than an initial attack pattern.",
+        "prerequisites": [],
+        "skills_required": [],
+        "resources_required": [],
+        "execution_flow": [],
+        "consequences": [],
+        "mitigations": [],
+        "related_cwe": [
+            "N/A"
+        ],
+        "related_capec": [],
+        "related_attack_techniques": [
+            "T1203"
+        ],
+        "references": [],
+        "families": [
+            "web_injection"
+        ],
+        "source": "Forced N/A Injection"
+    },
+    {
+        "capec_id": "N/A",
+        "name": "No CAPEC officially mapped to AML.T0051",
+        "abstraction": "N/A",
+        "status": "N/A",
+        "description": "MITRE CAPEC does not provide a direct mapping for ATT&CK technique AML.T0051. This is usually because the technique relates to post-compromise impact, lateral movement, or data exfiltration, rather than an initial attack pattern.",
+        "prerequisites": [],
+        "skills_required": [],
+        "resources_required": [],
+        "execution_flow": [],
+        "consequences": [],
+        "mitigations": [],
+        "related_cwe": [
+            "N/A"
+        ],
+        "related_capec": [],
+        "related_attack_techniques": [
+            "AML.T0051"
+        ],
+        "references": [],
+        "families": [
+            "web_injection"
+        ],
+        "source": "Forced N/A Injection"
     }
 ]

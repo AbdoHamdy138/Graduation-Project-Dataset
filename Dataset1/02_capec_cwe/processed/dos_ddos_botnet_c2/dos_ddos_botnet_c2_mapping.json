@@ -5,6 +5,10 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [
+            "T1498.001",
+            "T1499"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-404",
@@ -61,6 +65,9 @@
         "capec_name": "Excessive Allocation",
         "families": [
             "dos_ddos_botnet_c2"
+        ],
+        "related_attack_techniques": [
+            "T1499.003"
         ],
         "related_cwe": [
             {
@@ -135,6 +142,7 @@
             "malware_backdoor",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-118",
@@ -325,6 +333,9 @@
             "malware_backdoor",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1557.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-345",
@@ -385,6 +396,9 @@
             "dos_ddos_botnet_c2",
             "malware_backdoor",
             "ransomware_data_impact"
+        ],
+        "related_attack_techniques": [
+            "T1584.002"
         ],
         "related_cwe": [
             {
@@ -461,6 +475,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-15",
@@ -505,6 +520,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-400",
@@ -565,6 +581,9 @@
             "ransomware_data_impact",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1195.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-494",
@@ -598,6 +617,7 @@
             "malware_backdoor",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -654,6 +674,9 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [
+            "T1531"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-645",
@@ -680,6 +703,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-611",
@@ -707,6 +731,9 @@
         "families": [
             "authentication_bruteforce",
             "dos_ddos_botnet_c2"
+        ],
+        "related_attack_techniques": [
+            "T1499"
         ],
         "related_cwe": [
             {
@@ -741,6 +768,7 @@
             "malware_backdoor",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-829",
@@ -780,6 +808,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -819,6 +848,7 @@
             "malware_backdoor",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-118",
@@ -1007,6 +1037,9 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [
+            "T1499.004"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1322",
@@ -1107,6 +1140,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-829",
@@ -1147,6 +1181,9 @@
             "dos_ddos_botnet_c2",
             "malware_backdoor",
             "ransomware_data_impact"
+        ],
+        "related_attack_techniques": [
+            "T1027"
         ],
         "related_cwe": [
             {
@@ -1319,6 +1356,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-367",
@@ -1413,6 +1451,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-15",
@@ -1442,6 +1481,7 @@
             "malware_backdoor",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-707",
@@ -1467,6 +1507,7 @@
             "malware_backdoor",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -1533,6 +1574,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-362",
@@ -1716,6 +1758,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -1746,6 +1789,9 @@
         "families": [
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
+        ],
+        "related_attack_techniques": [
+            "T1499.002"
         ],
         "related_cwe": [
             {
@@ -1801,6 +1847,9 @@
             "dos_ddos_botnet_c2",
             "malware_backdoor"
         ],
+        "related_attack_techniques": [
+            "T1090.004"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-923",
@@ -1823,6 +1872,11 @@
         "capec_name": "TCP Flood",
         "families": [
             "dos_ddos_botnet_c2"
+        ],
+        "related_attack_techniques": [
+            "T1498.001",
+            "T1499.001",
+            "T1499.002"
         ],
         "related_cwe": [
             {
@@ -1860,6 +1914,7 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -1896,6 +1951,7 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -1932,6 +1988,9 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [
+            "T1499.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -1967,6 +2026,9 @@
         "capec_name": "SSL Flood",
         "families": [
             "dos_ddos_botnet_c2"
+        ],
+        "related_attack_techniques": [
+            "T1499.002"
         ],
         "related_cwe": [
             {
@@ -2006,6 +2068,7 @@
             "malware_backdoor",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -2043,6 +2106,7 @@
             "dos_ddos_botnet_c2",
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-404",
@@ -2100,6 +2164,7 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-404",
@@ -2158,6 +2223,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-925",
@@ -2185,6 +2251,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-285",
@@ -2226,6 +2293,7 @@
             "ransomware_data_impact",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-285",
@@ -2297,6 +2365,10 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [
+            "T1498.001",
+            "T1499.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -2333,6 +2405,7 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-940",
@@ -2356,6 +2429,9 @@
         "families": [
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
+        ],
+        "related_attack_techniques": [
+            "T1036.007"
         ],
         "related_cwe": [
             {
@@ -2384,6 +2460,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-172",
@@ -2583,6 +2660,7 @@
             "ransomware_data_impact",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1286",
@@ -2642,6 +2720,10 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [
+            "T1498.001",
+            "T1499.001"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-404",
@@ -2676,6 +2758,7 @@
             "ransomware_data_impact",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1277",
@@ -2721,6 +2804,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-15",
@@ -2780,6 +2864,7 @@
             "ransomware_data_impact",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-172",
@@ -2917,6 +3002,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1245",
@@ -3035,6 +3121,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-172",
@@ -3245,6 +3332,9 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [
+            "T1557"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-287",
@@ -3340,6 +3430,7 @@
             "ransomware_data_impact",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-538",
@@ -3358,5 +3449,49 @@
             }
         ],
         "source": "CAPEC + CWE"
+    },
+    {
+        "capec_id": "N/A",
+        "capec_name": "No CAPEC mapped for T1498",
+        "families": [
+            "dos_ddos_botnet_c2"
+        ],
+        "related_attack_techniques": [
+            "T1498"
+        ],
+        "related_cwe": [
+            {
+                "cwe_id": "N/A",
+                "cwe_name": "No CWE mapped",
+                "description": "N/A",
+                "extended_description": null,
+                "consequences": [],
+                "mitigations": [],
+                "detection_methods": []
+            }
+        ],
+        "source": "Forced N/A Injection"
+    },
+    {
+        "capec_id": "N/A",
+        "capec_name": "No CAPEC mapped for T1071",
+        "families": [
+            "dos_ddos_botnet_c2"
+        ],
+        "related_attack_techniques": [
+            "T1071"
+        ],
+        "related_cwe": [
+            {
+                "cwe_id": "N/A",
+                "cwe_name": "No CWE mapped",
+                "description": "N/A",
+                "extended_description": null,
+                "consequences": [],
+                "mitigations": [],
+                "detection_methods": []
+            }
+        ],
+        "source": "Forced N/A Injection"
     }
 ]

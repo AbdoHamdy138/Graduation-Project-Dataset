@@ -2421,5 +2421,130 @@
             "web_injection"
         ],
         "source": "CAPEC"
+    },
+    {
+        "capec_id": "N/A",
+        "name": "No CAPEC officially mapped to T1021",
+        "abstraction": "N/A",
+        "status": "N/A",
+        "description": "MITRE CAPEC does not provide a direct mapping for ATT&CK technique T1021. This is usually because the technique relates to post-compromise impact, lateral movement, or data exfiltration, rather than an initial attack pattern.",
+        "prerequisites": [],
+        "skills_required": [],
+        "resources_required": [],
+        "execution_flow": [],
+        "consequences": [],
+        "mitigations": [],
+        "related_cwe": [
+            "N/A"
+        ],
+        "related_capec": [],
+        "related_attack_techniques": [
+            "T1021"
+        ],
+        "references": [],
+        "families": [
+            "ransomware_data_impact"
+        ],
+        "source": "Forced N/A Injection"
+    },
+    {
+        "capec_id": "N/A",
+        "name": "No CAPEC officially mapped to T1041",
+        "abstraction": "N/A",
+        "status": "N/A",
+        "description": "MITRE CAPEC does not provide a direct mapping for ATT&CK technique T1041. This is usually because the technique relates to post-compromise impact, lateral movement, or data exfiltration, rather than an initial attack pattern.",
+        "prerequisites": [],
+        "skills_required": [],
+        "resources_required": [],
+        "execution_flow": [],
+        "consequences": [],
+        "mitigations": [],
+        "related_cwe": [
+            "N/A"
+        ],
+        "related_capec": [],
+        "related_attack_techniques": [
+            "T1041"
+        ],
+        "references": [],
+        "families": [
+            "ransomware_data_impact"
+        ],
+        "source": "Forced N/A Injection"
+    },
+    {
+        "capec_id": "N/A",
+        "name": "No CAPEC officially mapped to T1048",
+        "abstraction": "N/A",
+        "status": "N/A",
+        "description": "MITRE CAPEC does not provide a direct mapping for ATT&CK technique T1048. This is usually because the technique relates to post-compromise impact, lateral movement, or data exfiltration, rather than an initial attack pattern.",
+        "prerequisites": [],
+        "skills_required": [],
+        "resources_required": [],
+        "execution_flow": [],
+        "consequences": [],
+        "mitigations": [],
+        "related_cwe": [
+            "N/A"
+        ],
+        "related_capec": [],
+        "related_attack_techniques": [
+            "T1048"
+        ],
+        "references": [],
+        "families": [
+            "ransomware_data_impact"
+        ],
+        "source": "Forced N/A Injection"
+    },
+    {
+        "capec_id": "N/A",
+        "name": "No CAPEC officially mapped to T1570",
+        "abstraction": "N/A",
+        "status": "N/A",
+        "description": "MITRE CAPEC does not provide a direct mapping for ATT&CK technique T1570. This is usually because the technique relates to post-compromise impact, lateral movement, or data exfiltration, rather than an initial attack pattern.",
+        "prerequisites": [],
+        "skills_required": [],
+        "resources_required": [],
+        "execution_flow": [],
+        "consequences": [],
+        "mitigations": [],
+        "related_cwe": [
+            "N/A"
+        ],
+        "related_capec": [],
+        "related_attack_techniques": [
+            "T1570"
+        ],
+        "references": [],
+        "families": [
+            "ransomware_data_impact"
+        ],
+        "source": "Forced N/A Injection"
+    },
+    {
+        "capec_id": "N/A",
+        "name": "No CAPEC officially mapped to T1486",
+        "abstraction": "N/A",
+        "status": "N/A",
+        "description": "MITRE CAPEC does not provide a direct mapping for ATT&CK technique T1486. This is usually because the technique relates to post-compromise impact, lateral movement, or data exfiltration, rather than an initial attack pattern.",
+        "prerequisites": [],
+        "skills_required": [],
+        "resources_required": [],
+        "execution_flow": [],
+        "consequences": [],
+        "mitigations": [],
+        "related_cwe": [
+            "N/A"
+        ],
+        "related_capec": [],
+        "related_attack_techniques": [
+            "T1486"
+        ],
+        "references": [],
+        "families": [
+            "ransomware_data_impact"
+        ],
+        "source": "Forced N/A Injection"
     }
 ]

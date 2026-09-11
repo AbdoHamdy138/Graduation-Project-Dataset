@@ -32,7 +32,7 @@ OUTPUT_ROOT = (
 )
 
 # ==========================================================
-# TARGET TECHNIQUES (33 Core Project Techniques)
+# TARGET TECHNIQUES & FAMILIES
 # ==========================================================
 
 TARGET_TECHNIQUES = [
@@ -43,16 +43,16 @@ TARGET_TECHNIQUES = [
     "T1499", "T1071"
 ]
 
-# ==========================================================
-# ATTACK FAMILIES
-# ==========================================================
-
 FAMILIES = {
     "malware_backdoor": {
         "display_name": "Malware / Backdoor Operations",
         "keywords": [
             "malware", "backdoor", "trojan", "remote access", "payload",
             "malicious software", "command and control", "c2"
+        ],
+        "techniques": [
+            "T1018", "T1069", "T1087", "T1482", "T1053", "T1059", 
+            "T1543", "T1547", "T1027", "T1055", "T1070", "T1105"
         ]
     },
     "social_engineering_credential_theft": {
@@ -61,6 +61,9 @@ FAMILIES = {
             "phishing", "spear phishing", "social engineering", "credential theft",
             "credential", "password theft", "credential harvesting", "impersonation",
             "vishing", "smishing"
+        ],
+        "techniques": [
+            "T1566", "T1003", "T1552", "T1555", "T1558"
         ]
     },
     "ransomware_data_impact": {
@@ -68,6 +71,9 @@ FAMILIES = {
         "keywords": [
             "ransomware", "data encryption", "file encryption", "data destruction",
             "data corruption", "destructive", "denial of service", "data loss", "extortion"
+        ],
+        "techniques": [
+            "T1021", "T1041", "T1048", "T1570", "T1486"
         ]
     },
     "web_injection": {
@@ -77,6 +83,9 @@ FAMILIES = {
             "command injection", "os command injection", "code injection",
             "ldap injection", "xpath injection", "nosql injection",
             "server side request forgery", "ssrf", "template injection"
+        ],
+        "techniques": [
+            "T1190", "T1059.006", "T1203", "AML.T0051"
         ]
     },
     "authentication_bruteforce": {
@@ -84,6 +93,9 @@ FAMILIES = {
         "keywords": [
             "brute force", "password guessing", "password cracking", "password spraying",
             "credential stuffing", "authentication", "login", "password attack"
+        ],
+        "techniques": [
+            "T1110", "T1110.003", "T1110.004", "T1078"
         ]
     },
     "dos_ddos_botnet_c2": {
@@ -91,6 +103,9 @@ FAMILIES = {
         "keywords": [
             "denial of service", "ddos", "dos", "botnet", "c2",
             "command and control", "resource exhaustion", "flood", "network disruption"
+        ],
+        "techniques": [
+            "T1498", "T1499", "T1071"
         ]
     }
 }
@@ -476,6 +491,7 @@ def build_capec_cwe_mapping(capec_patterns, cwe_weaknesses):
                 "capec_id": capec_id,
                 "capec_name": pattern["name"],
                 "families": pattern["families"],
+                "related_attack_techniques": pattern.get("related_attack_techniques", []),
                 "related_cwe": related_cwe,
                 "source": "CAPEC + CWE"
             })
@@ -484,7 +500,6 @@ def build_capec_cwe_mapping(capec_patterns, cwe_weaknesses):
 
 def build_technique_capec_mapping(capec_patterns):
     technique_mapping = defaultdict(list)
-    
     for pattern in capec_patterns:
         for tech_id in pattern.get("related_attack_techniques", []):
             technique_mapping[tech_id].append({
@@ -506,8 +521,68 @@ def build_technique_capec_mapping(capec_patterns):
                 "technique_id": target_tech,
                 "related_capecs": mapped_capecs
             })
-            
     return results
+
+# ==========================================================
+# FORCED DUMMY INJECTION FOR MISSING TECHNIQUES
+# ==========================================================
+
+def inject_missing_techniques(family_capecs, family_name, expected_techniques):
+    found_techniques = set()
+    for capec in family_capecs:
+        for tech in capec.get("related_attack_techniques", []):
+            found_techniques.add(tech)
+
+    for expected_tech in expected_techniques:
+        if expected_tech not in found_techniques:
+            dummy_capec = {
+                "capec_id": "N/A",
+                "name": f"No CAPEC officially mapped to {expected_tech}",
+                "abstraction": "N/A",
+                "status": "N/A",
+                "description": f"MITRE CAPEC does not provide a direct mapping for ATT&CK technique {expected_tech}. This is usually because the technique relates to post-compromise impact, lateral movement, or data exfiltration, rather than an initial attack pattern.",
+                "prerequisites": [],
+                "skills_required": [],
+                "resources_required": [],
+                "execution_flow": [],
+                "consequences": [],
+                "mitigations": [],
+                "related_cwe": ["N/A"],
+                "related_capec": [],
+                "related_attack_techniques": [expected_tech],
+                "references": [],
+                "families": [family_name],
+                "source": "Forced N/A Injection"
+            }
+            family_capecs.append(dummy_capec)
+    return family_capecs
+
+def inject_missing_mappings(family_mappings, family_name, expected_techniques):
+    found_techniques = set()
+    for mapping in family_mappings:
+        for tech in mapping.get("related_attack_techniques", []):
+            found_techniques.add(tech)
+
+    for expected_tech in expected_techniques:
+        if expected_tech not in found_techniques:
+            dummy_mapping = {
+                "capec_id": "N/A",
+                "capec_name": f"No CAPEC mapped for {expected_tech}",
+                "families": [family_name],
+                "related_attack_techniques": [expected_tech],
+                "related_cwe": [{
+                    "cwe_id": "N/A",
+                    "cwe_name": "No CWE mapped",
+                    "description": "N/A",
+                    "extended_description": None,
+                    "consequences": [],
+                    "mitigations": [],
+                    "detection_methods": []
+                }],
+                "source": "Forced N/A Injection"
+            }
+            family_mappings.append(dummy_mapping)
+    return family_mappings
 
 # ==========================================================
 # FAMILY FILTERING
@@ -526,7 +601,6 @@ def filter_by_family(data, family_name):
 
 def build_validation_summary(capec_patterns, cwe_weaknesses, mappings):
     family_summary = {}
-
     for family_name, config in FAMILIES.items():
         capec_count = len(filter_by_family(capec_patterns, family_name))
         cwe_count = len(filter_by_family(cwe_weaknesses, family_name))
@@ -554,47 +628,25 @@ def build_validation_summary(capec_patterns, cwe_weaknesses, mappings):
 def main():
     print("\n")
     print("=" * 80)
-    print("CAPEC + CWE DATASET PROCESSOR")
+    print("CAPEC + CWE DATASET PROCESSOR (WITH FORCED INJECTION)")
     print("=" * 80)
 
-    # ------------------------------------------------------
-    # LOAD
-    # ------------------------------------------------------
     capec_root = load_xml(CAPEC_INPUT, "CAPEC")
     cwe_root = load_xml(CWE_INPUT, "CWE")
 
-    # ------------------------------------------------------
-    # EXTRACT CAPEC
-    # ------------------------------------------------------
     capec_patterns = extract_capec_patterns(capec_root)
-
-    # ------------------------------------------------------
-    # EXTRACT CWE
-    # ------------------------------------------------------
     cwe_weaknesses = extract_cwe_weaknesses(cwe_root)
 
-    # ------------------------------------------------------
-    # BUILD MAPPINGS
-    # ------------------------------------------------------
     capec_cwe_mappings = build_capec_cwe_mapping(capec_patterns, cwe_weaknesses)
     technique_capec_mappings = build_technique_capec_mapping(capec_patterns)
 
-    # ------------------------------------------------------
-    # OUTPUT DIRECTORIES
-    # ------------------------------------------------------
     OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
 
-    # ------------------------------------------------------
-    # SAVE GLOBAL DATA (Member 2 Deliverables)
-    # ------------------------------------------------------
     save_json(OUTPUT_ROOT / "capec_clean.json", capec_patterns)
     save_json(OUTPUT_ROOT / "cwe_clean.json", cwe_weaknesses)
     save_json(OUTPUT_ROOT / "capec_cwe_mapping.json", capec_cwe_mappings)
     save_json(OUTPUT_ROOT / "technique_capec_mapping.json", technique_capec_mappings)
 
-    # ------------------------------------------------------
-    # FAMILY OUTPUT
-    # ------------------------------------------------------
     for family_name, config in FAMILIES.items():
         family_dir = OUTPUT_ROOT / family_name
         family_dir.mkdir(parents=True, exist_ok=True)
@@ -603,34 +655,29 @@ def main():
         family_cwe = filter_by_family(cwe_weaknesses, family_name)
         family_mappings = [m for m in capec_cwe_mappings if family_name in m["families"]]
 
+        # Force inject missing techniques with "N/A" for this specific family
+        expected_techniques = config["techniques"]
+        family_capec = inject_missing_techniques(family_capec, family_name, expected_techniques)
+        family_mappings = inject_missing_mappings(family_mappings, family_name, expected_techniques)
+
         save_json(family_dir / f"{family_name}_capec.json", family_capec)
         save_json(family_dir / f"{family_name}_cwe.json", family_cwe)
         save_json(family_dir / f"{family_name}_mapping.json", family_mappings)
 
-        print("\n")
-        print(f"FAMILY: {config['display_name']}")
-        print(f"CAPEC: {len(family_capec)}")
-        print(f"CWE: {len(family_cwe)}")
-        print(f"Mappings: {len(family_mappings)}")
+        print(f"Processed FAMILY: {config['display_name']} (Injected N/A for missing techniques)")
 
-    # ------------------------------------------------------
-    # VALIDATION
-    # ------------------------------------------------------
     summary = build_validation_summary(capec_patterns, cwe_weaknesses, capec_cwe_mappings)
     save_json(OUTPUT_ROOT / "capec_cwe_validation_summary.json", summary)
 
-    # ------------------------------------------------------
-    # FINAL
-    # ------------------------------------------------------
     print("\n")
     print("=" * 80)
     print("CAPEC + CWE PROCESSING COMPLETE")
     print("=" * 80)
-    print(f"CAPEC patterns: {summary['capec_total']}")
-    print(f"CWE weaknesses: {summary['cwe_total']}")
-    print(f"CAPEC → CWE mappings: {summary['capec_cwe_mappings']}")
-    print(f"Technique → CAPEC mappings: {len(technique_capec_mappings)}")
-    print("\nOutput:")
+    print(f"CAPEC patterns extracted: {summary['capec_total']}")
+    print(f"CWE weaknesses extracted: {summary['cwe_total']}")
+    print(f"CAPEC → CWE mappings built: {summary['capec_cwe_mappings']}")
+    print(f"Technique → CAPEC mappings generated: {len(technique_capec_mappings)}")
+    print("\nOutput successfully saved to:")
     print(OUTPUT_ROOT)
 
 if __name__ == "__main__":

@@ -6,6 +6,9 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1574.010"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1191",
@@ -317,6 +320,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-118",
@@ -532,6 +536,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-119",
@@ -722,6 +727,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -798,6 +804,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-294",
@@ -890,6 +897,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1021",
@@ -919,6 +927,7 @@
             "malware_backdoor",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-116",
@@ -1059,6 +1068,7 @@
         "capec_id": "CAPEC-105",
         "capec_name": "HTTP Request Splitting",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-113",
@@ -1137,6 +1147,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-648",
@@ -1178,6 +1189,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-114",
@@ -1333,6 +1345,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -1431,6 +1444,9 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [
+            "T1036.006"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-430",
@@ -1456,6 +1472,7 @@
             "malware_backdoor",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -1535,6 +1552,7 @@
         "capec_id": "CAPEC-111",
         "capec_name": "JSON Hijacking (aka JavaScript Hijacking)",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-345",
@@ -1600,6 +1618,9 @@
         "families": [
             "authentication_bruteforce",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1110"
         ],
         "related_cwe": [
             {
@@ -1667,6 +1688,7 @@
         "capec_id": "CAPEC-113",
         "capec_name": "Interface Manipulation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1192",
@@ -1689,6 +1711,9 @@
         "capec_name": "Authentication Abuse",
         "families": [
             "authentication_bruteforce"
+        ],
+        "related_attack_techniques": [
+            "T1548"
         ],
         "related_cwe": [
             {
@@ -1742,6 +1767,9 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [
+            "T1548"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-287",
@@ -1773,6 +1801,7 @@
         "capec_id": "CAPEC-116",
         "capec_name": "Excavation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1243",
@@ -1814,6 +1843,7 @@
         "capec_id": "CAPEC-117",
         "capec_name": "Interception",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-319",
@@ -1846,6 +1876,7 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-201",
@@ -1901,6 +1932,7 @@
             "malware_backdoor",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-172",
@@ -2078,6 +2110,7 @@
             "authentication_bruteforce",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1209",
@@ -2228,6 +2261,9 @@
         "capec_id": "CAPEC-122",
         "capec_name": "Privilege Abuse",
         "families": [],
+        "related_attack_techniques": [
+            "T1548"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1317",
@@ -2309,6 +2345,7 @@
         "capec_id": "CAPEC-123",
         "capec_name": "Buffer Manipulation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-119",
@@ -2349,6 +2386,7 @@
         "capec_id": "CAPEC-124",
         "capec_name": "Shared Resource Manipulation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1189",
@@ -2389,6 +2427,10 @@
         "capec_name": "Flooding",
         "families": [
             "dos_ddos_botnet_c2"
+        ],
+        "related_attack_techniques": [
+            "T1498.001",
+            "T1499"
         ],
         "related_cwe": [
             {
@@ -2447,6 +2489,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-22",
@@ -2491,6 +2534,9 @@
         "capec_id": "CAPEC-127",
         "capec_name": "Directory Indexing",
         "families": [],
+        "related_attack_techniques": [
+            "T1083"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-276",
@@ -2641,6 +2687,7 @@
         "capec_id": "CAPEC-128",
         "capec_name": "Integer Attacks",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-682",
@@ -2674,6 +2721,7 @@
         "capec_id": "CAPEC-129",
         "capec_name": "Pointer Manipulation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-682",
@@ -2739,6 +2787,11 @@
         "capec_id": "CAPEC-13",
         "capec_name": "Subverting Environment Variable Values",
         "families": [],
+        "related_attack_techniques": [
+            "T1562.003",
+            "T1574.006",
+            "T1574.007"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-15",
@@ -2922,6 +2975,9 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [
+            "T1499.003"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1325",
@@ -2991,6 +3047,9 @@
         "capec_id": "CAPEC-131",
         "capec_name": "Resource Leak Exposure",
         "families": [],
+        "related_attack_techniques": [
+            "T1499"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-404",
@@ -3021,6 +3080,9 @@
         "capec_name": "Symlink Attack",
         "families": [
             "authentication_bruteforce"
+        ],
+        "related_attack_techniques": [
+            "T1547.009"
         ],
         "related_cwe": [
             {
@@ -3055,6 +3117,7 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-912",
@@ -3078,6 +3141,7 @@
         "capec_id": "CAPEC-134",
         "capec_name": "Email Injection",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-150",
@@ -3108,6 +3172,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-134",
@@ -3200,6 +3265,7 @@
             "authentication_bruteforce",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -3277,6 +3343,7 @@
         "capec_id": "CAPEC-137",
         "capec_name": "Parameter Injection",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-88",
@@ -3307,6 +3374,7 @@
         "capec_id": "CAPEC-138",
         "capec_name": "Reflection Injection",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-470",
@@ -3336,6 +3404,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-23",
@@ -3368,6 +3437,7 @@
             "malware_backdoor",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-118",
@@ -3554,6 +3624,7 @@
         "capec_id": "CAPEC-140",
         "capec_name": "Bypassing of Intermediate Forms in Multiple-Form Sets",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-372",
@@ -3576,6 +3647,9 @@
             "dos_ddos_botnet_c2",
             "malware_backdoor",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1557.002"
         ],
         "related_cwe": [
             {
@@ -3637,6 +3711,9 @@
             "dos_ddos_botnet_c2",
             "malware_backdoor",
             "ransomware_data_impact"
+        ],
+        "related_attack_techniques": [
+            "T1584.002"
         ],
         "related_cwe": [
             {
@@ -3712,6 +3789,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-425",
@@ -3736,6 +3814,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-425",
@@ -3760,6 +3839,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-354",
@@ -3786,6 +3866,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-15",
@@ -3830,6 +3911,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-400",
@@ -3887,6 +3969,9 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [
+            "T1491"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-345",
@@ -3908,6 +3993,7 @@
         "capec_id": "CAPEC-149",
         "capec_name": "Explore for Predictable Temporary File Names",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-377",
@@ -3931,6 +4017,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-138",
@@ -4138,6 +4225,14 @@
         "capec_id": "CAPEC-150",
         "capec_name": "Collect Data from Common Resource Locations",
         "families": [],
+        "related_attack_techniques": [
+            "T1003",
+            "T1119",
+            "T1213",
+            "T1530",
+            "T1555",
+            "T1602"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1239",
@@ -4250,6 +4345,7 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-287",
@@ -4281,6 +4377,7 @@
         "capec_id": "CAPEC-153",
         "capec_name": "Input Data Manipulation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -4324,6 +4421,7 @@
         "capec_id": "CAPEC-154",
         "capec_name": "Resource Location Spoofing",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-451",
@@ -4346,6 +4444,7 @@
         "capec_id": "CAPEC-155",
         "capec_name": "Screen Temporary Files for Sensitive Information",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-377",
@@ -4367,6 +4466,7 @@
         "capec_id": "CAPEC-157",
         "capec_name": "Sniffing Attacks",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-311",
@@ -4403,6 +4503,10 @@
         "capec_id": "CAPEC-158",
         "capec_name": "Sniffing Network Traffic",
         "families": [],
+        "related_attack_techniques": [
+            "T1040",
+            "T1111"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-311",
@@ -4439,6 +4543,9 @@
         "capec_id": "CAPEC-159",
         "capec_name": "Redirect Access to Libraries",
         "families": [],
+        "related_attack_techniques": [
+            "T1574.008"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-706",
@@ -4463,6 +4570,7 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-262",
@@ -4587,6 +4695,7 @@
         "capec_id": "CAPEC-160",
         "capec_name": "Exploit Script-Based APIs",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-346",
@@ -4610,6 +4719,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-923",
@@ -4631,6 +4741,7 @@
         "capec_id": "CAPEC-162",
         "capec_name": "Manipulating Hidden Fields",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-602",
@@ -4660,6 +4771,15 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1534",
+            "T1566.001",
+            "T1566.002",
+            "T1566.003",
+            "T1598.001",
+            "T1598.002",
+            "T1598.003"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-451",
@@ -4685,6 +4805,7 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-451",
@@ -4707,6 +4828,7 @@
         "capec_id": "CAPEC-166",
         "capec_name": "Force the System to Reset Values",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1221",
@@ -4770,6 +4892,7 @@
         "capec_id": "CAPEC-167",
         "capec_name": "White Box Reverse Engineering",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1323",
@@ -4791,6 +4914,7 @@
         "capec_id": "CAPEC-168",
         "capec_name": "Windows ::DATA Alternate Data Stream",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-212",
@@ -4833,6 +4957,11 @@
         "capec_id": "CAPEC-169",
         "capec_name": "Footprinting",
         "families": [],
+        "related_attack_techniques": [
+            "T1217",
+            "T1592",
+            "T1595"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -4861,6 +4990,10 @@
         "capec_id": "CAPEC-17",
         "capec_name": "Using Malicious Files",
         "families": [],
+        "related_attack_techniques": [
+            "T1574.005",
+            "T1574.010"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-270",
@@ -5024,6 +5157,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-497",
@@ -5047,6 +5181,7 @@
         "capec_id": "CAPEC-173",
         "capec_name": "Action Spoofing",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-451",
@@ -5071,6 +5206,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-88",
@@ -5103,6 +5239,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-829",
@@ -5139,6 +5276,7 @@
         "capec_id": "CAPEC-176",
         "capec_name": "Configuration/Environment Manipulation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1233",
@@ -5226,6 +5364,9 @@
         "families": [
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [
+            "T1036"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-706",
@@ -5250,6 +5391,7 @@
             "authentication_bruteforce",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-601",
@@ -5292,6 +5434,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-80",
@@ -5319,6 +5462,9 @@
         "capec_name": "Exploiting Incorrectly Configured Access Control Security Levels",
         "families": [
             "authentication_bruteforce"
+        ],
+        "related_attack_techniques": [
+            "T1574.010"
         ],
         "related_cwe": [
             {
@@ -5548,6 +5694,7 @@
         "capec_id": "CAPEC-181",
         "capec_name": "Flash File Overlay",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1021",
@@ -5576,6 +5723,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-184",
@@ -5650,6 +5798,7 @@
             "malware_backdoor",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-77",
@@ -5677,6 +5826,7 @@
         "capec_id": "CAPEC-184",
         "capec_name": "Software Integrity Attack",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-494",
@@ -5708,6 +5858,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-494",
@@ -5742,6 +5893,9 @@
             "ransomware_data_impact",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1195.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-494",
@@ -5773,6 +5927,9 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [
+            "T1072"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-494",
@@ -5802,6 +5959,7 @@
         "capec_id": "CAPEC-188",
         "capec_name": "Reverse Engineering",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1278",
@@ -5823,6 +5981,7 @@
         "capec_id": "CAPEC-189",
         "capec_name": "Black Box Reverse Engineering",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1255",
@@ -5885,6 +6044,11 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [
+            "T1027.009",
+            "T1546.004",
+            "T1546.016"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -5907,6 +6071,7 @@
         "capec_id": "CAPEC-190",
         "capec_name": "Reverse Engineer an Executable to Expose Assumed Hidden Functionality",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-912",
@@ -5930,6 +6095,9 @@
         "capec_id": "CAPEC-191",
         "capec_name": "Read Sensitive Constants Within an Executable",
         "families": [],
+        "related_attack_techniques": [
+            "T1552.001"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-798",
@@ -5968,6 +6136,7 @@
         "capec_id": "CAPEC-192",
         "capec_name": "Protocol Analysis",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-326",
@@ -5994,6 +6163,7 @@
             "authentication_bruteforce",
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-80",
@@ -6050,6 +6220,7 @@
             "authentication_bruteforce",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-287",
@@ -6083,6 +6254,11 @@
         "families": [
             "authentication_bruteforce",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1134.002",
+            "T1134.003",
+            "T1606"
         ],
         "related_cwe": [
             {
@@ -6124,6 +6300,7 @@
             "malware_backdoor",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -6178,6 +6355,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-81",
@@ -6210,6 +6388,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-87",
@@ -6241,6 +6420,9 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [
+            "T1531"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-645",
@@ -6266,6 +6448,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1204",
@@ -6347,6 +6530,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-829",
@@ -6383,6 +6567,7 @@
         "capec_id": "CAPEC-202",
         "capec_name": "Create Malicious Client",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-602",
@@ -6412,6 +6597,10 @@
             "malware_backdoor",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1112",
+            "T1647"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-15",
@@ -6438,6 +6627,9 @@
         "capec_name": "Lifting Sensitive Data Embedded in Cache",
         "families": [
             "authentication_bruteforce"
+        ],
+        "related_attack_techniques": [
+            "T1005"
         ],
         "related_cwe": [
             {
@@ -6522,6 +6714,9 @@
             "malware_backdoor",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1553.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-732",
@@ -6571,6 +6766,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-602",
@@ -6597,6 +6793,7 @@
         "capec_id": "CAPEC-208",
         "capec_name": "Removing/short-circuiting 'Purse' logic: removing/mutating 'cash' decrements",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-602",
@@ -6626,6 +6823,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -6715,6 +6913,11 @@
         "families": [
             "authentication_bruteforce",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1134",
+            "T1528",
+            "T1539"
         ],
         "related_cwe": [
             {
@@ -6862,6 +7065,7 @@
         "families": [
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1242",
@@ -6913,6 +7117,7 @@
             "malware_backdoor",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-209",
@@ -6966,6 +7171,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-306",
@@ -7002,6 +7208,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-201",
@@ -7028,6 +7235,7 @@
         "capec_id": "CAPEC-218",
         "capec_name": "Spoofing of UDDI/ebXML Messages",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-345",
@@ -7051,6 +7259,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-441",
@@ -7089,6 +7298,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -7197,6 +7407,7 @@
         "capec_id": "CAPEC-220",
         "capec_name": "Client-Server Protocol Manipulation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-757",
@@ -7221,6 +7432,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-611",
@@ -7249,6 +7461,7 @@
             "authentication_bruteforce",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1021",
@@ -7275,6 +7488,7 @@
         "capec_id": "CAPEC-224",
         "capec_name": "Fingerprinting",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -7306,6 +7520,7 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-472",
@@ -7352,6 +7567,9 @@
             "authentication_bruteforce",
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [
+            "T1499"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-400",
@@ -7385,6 +7603,7 @@
             "malware_backdoor",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-829",
@@ -7424,6 +7643,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -7460,6 +7680,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -7505,6 +7726,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-112",
@@ -7608,6 +7830,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-112",
@@ -7709,6 +7932,9 @@
         "capec_id": "CAPEC-233",
         "capec_name": "Privilege Escalation",
         "families": [],
+        "related_attack_techniques": [
+            "T1548"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1264",
@@ -7761,6 +7987,7 @@
         "capec_id": "CAPEC-234",
         "capec_name": "Hijacking a privileged process",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-648",
@@ -7830,6 +8057,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-693",
@@ -7854,6 +8082,7 @@
             "malware_backdoor",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-118",
@@ -8039,6 +8268,7 @@
         "capec_id": "CAPEC-240",
         "capec_name": "Resource Injection",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-99",
@@ -8064,6 +8294,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-94",
@@ -8099,6 +8330,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-83",
@@ -8130,6 +8362,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-83",
@@ -8160,6 +8393,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-85",
@@ -8189,6 +8423,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-86",
@@ -8215,6 +8450,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-77",
@@ -8244,6 +8480,9 @@
         "families": [
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
+        ],
+        "related_attack_techniques": [
+            "T1499.004"
         ],
         "related_cwe": [
             {
@@ -8345,6 +8584,7 @@
             "authentication_bruteforce",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -8436,6 +8676,9 @@
         "capec_id": "CAPEC-251",
         "capec_name": "Local Code Inclusion",
         "families": [],
+        "related_attack_techniques": [
+            "T1055"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-829",
@@ -8472,6 +8715,7 @@
         "capec_id": "CAPEC-252",
         "capec_name": "PHP Local File Inclusion",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-829",
@@ -8508,6 +8752,7 @@
         "capec_id": "CAPEC-253",
         "capec_name": "Remote Code Inclusion",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-829",
@@ -8546,6 +8791,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-805",
@@ -8581,6 +8827,7 @@
         "capec_id": "CAPEC-26",
         "capec_name": "Leveraging Race Conditions",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1223",
@@ -8790,6 +9037,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -8836,6 +9084,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-829",
@@ -8876,6 +9125,9 @@
             "dos_ddos_botnet_c2",
             "malware_backdoor",
             "ransomware_data_impact"
+        ],
+        "related_attack_techniques": [
+            "T1027"
         ],
         "related_cwe": [
             {
@@ -9045,6 +9297,12 @@
         "capec_id": "CAPEC-268",
         "capec_name": "Audit Log Manipulation",
         "families": [],
+        "related_attack_techniques": [
+            "T1070",
+            "T1562.002",
+            "T1562.003",
+            "T1562.008"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-117",
@@ -9073,6 +9331,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-367",
@@ -9166,6 +9425,10 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [
+            "T1547.001",
+            "T1547.014"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-15",
@@ -9194,6 +9457,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-15",
@@ -9219,6 +9483,7 @@
         "capec_id": "CAPEC-273",
         "capec_name": "HTTP Response Smuggling",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-436",
@@ -9276,6 +9541,7 @@
         "capec_id": "CAPEC-274",
         "capec_name": "HTTP Verb Tampering",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-302",
@@ -9314,6 +9580,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-350",
@@ -9338,6 +9605,7 @@
         "capec_id": "CAPEC-276",
         "capec_name": "Inter-component Protocol Manipulation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-707",
@@ -9359,6 +9627,7 @@
         "capec_id": "CAPEC-277",
         "capec_name": "Data Interchange Protocol Manipulation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-707",
@@ -9380,6 +9649,7 @@
         "capec_id": "CAPEC-278",
         "capec_name": "Web Services Protocol Manipulation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-707",
@@ -9405,6 +9675,7 @@
             "malware_backdoor",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-707",
@@ -9430,6 +9701,7 @@
             "malware_backdoor",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -9493,6 +9765,7 @@
         "capec_id": "CAPEC-285",
         "capec_name": "ICMP Echo Request Ping",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -9521,6 +9794,7 @@
         "capec_id": "CAPEC-287",
         "capec_name": "TCP SYN Scan",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -9552,6 +9826,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-362",
@@ -9732,6 +10007,7 @@
         "capec_id": "CAPEC-290",
         "capec_name": "Enumerate Mail Exchange (MX) Records",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -9760,6 +10036,7 @@
         "capec_id": "CAPEC-291",
         "capec_name": "DNS Zone Transfers",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -9788,6 +10065,9 @@
         "capec_id": "CAPEC-292",
         "capec_name": "Host Discovery",
         "families": [],
+        "related_attack_techniques": [
+            "T1018"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -9816,6 +10096,7 @@
         "capec_id": "CAPEC-293",
         "capec_name": "Traceroute Route Enumeration",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -9847,6 +10128,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -9877,6 +10159,9 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [
+            "T1124"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -9905,6 +10190,7 @@
         "capec_id": "CAPEC-296",
         "capec_name": "ICMP Information Request",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -9933,6 +10219,7 @@
         "capec_id": "CAPEC-297",
         "capec_name": "TCP ACK Ping",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -9961,6 +10248,7 @@
         "capec_id": "CAPEC-298",
         "capec_name": "UDP Ping",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -9989,6 +10277,7 @@
         "capec_id": "CAPEC-299",
         "capec_name": "TCP SYN Ping",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10017,6 +10306,7 @@
         "capec_id": "CAPEC-3",
         "capec_name": "Using Leading 'Ghost' Character Sequences to Bypass Input Filters",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-172",
@@ -10227,6 +10517,9 @@
         "capec_id": "CAPEC-30",
         "capec_name": "Hijacking a Privileged Thread of Execution",
         "families": [],
+        "related_attack_techniques": [
+            "T1055.003"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-270",
@@ -10250,6 +10543,9 @@
         "capec_id": "CAPEC-300",
         "capec_name": "Port Scanning",
         "families": [],
+        "related_attack_techniques": [
+            "T1046"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10278,6 +10574,7 @@
         "capec_id": "CAPEC-301",
         "capec_name": "TCP Connect Scan",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10306,6 +10603,7 @@
         "capec_id": "CAPEC-302",
         "capec_name": "TCP FIN Scan",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10334,6 +10632,7 @@
         "capec_id": "CAPEC-303",
         "capec_name": "TCP Xmas Scan",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10362,6 +10661,7 @@
         "capec_id": "CAPEC-304",
         "capec_name": "TCP Null Scan",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10390,6 +10690,7 @@
         "capec_id": "CAPEC-305",
         "capec_name": "TCP ACK Scan",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10418,6 +10719,7 @@
         "capec_id": "CAPEC-306",
         "capec_name": "TCP Window Scan",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10446,6 +10748,7 @@
         "capec_id": "CAPEC-307",
         "capec_name": "TCP RPC Scan",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10474,6 +10777,7 @@
         "capec_id": "CAPEC-308",
         "capec_name": "UDP Scan",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10502,6 +10806,11 @@
         "capec_id": "CAPEC-309",
         "capec_name": "Network Topology Mapping",
         "families": [],
+        "related_attack_techniques": [
+            "T1016",
+            "T1049",
+            "T1590"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10532,6 +10841,9 @@
         "families": [
             "social_engineering_credential_theft",
             "web_injection"
+        ],
+        "related_attack_techniques": [
+            "T1539"
         ],
         "related_cwe": [
             {
@@ -10755,6 +11067,7 @@
         "capec_id": "CAPEC-310",
         "capec_name": "Scanning for Vulnerable Software",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10783,6 +11096,9 @@
         "capec_id": "CAPEC-312",
         "capec_name": "Active OS Fingerprinting",
         "families": [],
+        "related_attack_techniques": [
+            "T1082"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10811,6 +11127,9 @@
         "capec_id": "CAPEC-313",
         "capec_name": "Passive OS Fingerprinting",
         "families": [],
+        "related_attack_techniques": [
+            "T1082"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10839,6 +11158,7 @@
         "capec_id": "CAPEC-317",
         "capec_name": "IP ID Sequencing Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10867,6 +11187,7 @@
         "capec_id": "CAPEC-318",
         "capec_name": "IP 'ID' Echoed Byte-Order Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10895,6 +11216,7 @@
         "capec_id": "CAPEC-319",
         "capec_name": "IP (DF) 'Don't Fragment Bit' Echoing Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10927,6 +11249,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-80",
@@ -10953,6 +11276,7 @@
         "capec_id": "CAPEC-320",
         "capec_name": "TCP Timestamp Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -10981,6 +11305,7 @@
         "capec_id": "CAPEC-321",
         "capec_name": "TCP Sequence Number Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -11009,6 +11334,7 @@
         "capec_id": "CAPEC-322",
         "capec_name": "TCP (ISN) Greatest Common Divisor Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -11037,6 +11363,7 @@
         "capec_id": "CAPEC-323",
         "capec_name": "TCP (ISN) Counter Rate Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -11065,6 +11392,7 @@
         "capec_id": "CAPEC-324",
         "capec_name": "TCP (ISN) Sequence Predictability Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -11093,6 +11421,7 @@
         "capec_id": "CAPEC-325",
         "capec_name": "TCP Congestion Control Flag (ECN) Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -11121,6 +11450,7 @@
         "capec_id": "CAPEC-326",
         "capec_name": "TCP Initial Window Size Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -11149,6 +11479,7 @@
         "capec_id": "CAPEC-327",
         "capec_name": "TCP Options Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -11179,6 +11510,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -11207,6 +11539,7 @@
         "capec_id": "CAPEC-329",
         "capec_name": "ICMP Error Message Quoting Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -11235,6 +11568,7 @@
         "capec_id": "CAPEC-33",
         "capec_name": "HTTP Request Smuggling",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-444",
@@ -11261,6 +11595,7 @@
         "capec_id": "CAPEC-330",
         "capec_name": "ICMP Error Message Echoing Integrity Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -11289,6 +11624,7 @@
         "capec_id": "CAPEC-331",
         "capec_name": "ICMP IP Total Length Field Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-204",
@@ -11311,6 +11647,7 @@
         "capec_id": "CAPEC-332",
         "capec_name": "ICMP IP 'ID' Field Error Message Probe",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-204",
@@ -11333,6 +11670,7 @@
         "capec_id": "CAPEC-34",
         "capec_name": "HTTP Response Splitting",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-113",
@@ -11407,6 +11745,11 @@
         "capec_id": "CAPEC-35",
         "capec_name": "Leverage Executable Code in Non-Executable Files",
         "families": [],
+        "related_attack_techniques": [
+            "T1027.006",
+            "T1027.009",
+            "T1564.009"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-270",
@@ -11569,6 +11912,7 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1242",
@@ -11641,6 +11985,10 @@
         "capec_name": "Retrieve Embedded Sensitive Data",
         "families": [
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1005",
+            "T1552.004"
         ],
         "related_cwe": [
             {
@@ -11862,6 +12210,10 @@
         "capec_id": "CAPEC-38",
         "capec_name": "Leveraging/Manipulating Configuration File Search Paths",
         "families": [],
+        "related_attack_techniques": [
+            "T1574.007",
+            "T1574.009"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-426",
@@ -11912,6 +12264,9 @@
         "capec_id": "CAPEC-383",
         "capec_name": "Harvesting Information via API Event Monitoring",
         "families": [],
+        "related_attack_techniques": [
+            "T1056.004"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-311",
@@ -12004,6 +12359,7 @@
             "malware_backdoor",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-311",
@@ -12098,6 +12454,7 @@
         "capec_id": "CAPEC-385",
         "capec_name": "Transaction or Event Tampering via Application API Manipulation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-311",
@@ -12194,6 +12551,7 @@
         "families": [
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-311",
@@ -12288,6 +12646,7 @@
         "capec_id": "CAPEC-387",
         "capec_name": "Navigation Remapping To Propagate Malicious Content",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-311",
@@ -12382,6 +12741,7 @@
         "capec_id": "CAPEC-388",
         "capec_name": "Application API Button Hijacking",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-311",
@@ -12476,6 +12836,7 @@
         "capec_id": "CAPEC-389",
         "capec_name": "Content Spoofing Via Application API Manipulation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-353",
@@ -12501,6 +12862,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-233",
@@ -12658,6 +13020,7 @@
         "capec_id": "CAPEC-4",
         "capec_name": "Using Alternative IP Address Encodings",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-173",
@@ -12695,6 +13058,7 @@
         "capec_id": "CAPEC-40",
         "capec_name": "Manipulating Writeable Terminal Devices",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-77",
@@ -12722,6 +13086,7 @@
         "capec_id": "CAPEC-401",
         "capec_name": "Physically Hacking Hardware",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1263",
@@ -12749,6 +13114,7 @@
             "ransomware_data_impact",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-285",
@@ -12788,6 +13154,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-150",
@@ -12851,6 +13218,7 @@
         "capec_id": "CAPEC-42",
         "capec_name": "MIME Conversion",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-119",
@@ -12986,6 +13354,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-179",
@@ -13187,6 +13556,9 @@
         "capec_id": "CAPEC-439",
         "capec_name": "Manipulation During Distribution",
         "families": [],
+        "related_attack_techniques": [
+            "T1195"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1269",
@@ -13210,6 +13582,7 @@
         "capec_id": "CAPEC-44",
         "capec_name": "Overflow Binary Resource File",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-119",
@@ -13303,6 +13676,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -13325,6 +13699,10 @@
         "capec_id": "CAPEC-442",
         "capec_name": "Infected Software",
         "families": [],
+        "related_attack_techniques": [
+            "T1195.001",
+            "T1195.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-506",
@@ -13351,6 +13729,9 @@
         "capec_id": "CAPEC-448",
         "capec_name": "Embed Virus into DLL",
         "families": [],
+        "related_attack_techniques": [
+            "T1027.009"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-506",
@@ -13379,6 +13760,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-118",
@@ -13592,6 +13974,7 @@
         "capec_id": "CAPEC-456",
         "capec_name": "Infected Memory",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1257",
@@ -13686,6 +14069,10 @@
             "malware_backdoor",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1091",
+            "T1092"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1299",
@@ -13709,6 +14096,7 @@
         "capec_id": "CAPEC-458",
         "capec_name": "Flash Memory Attacks",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1282",
@@ -13732,6 +14120,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-290",
@@ -13805,6 +14194,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-118",
@@ -13990,6 +14380,7 @@
         "capec_id": "CAPEC-460",
         "capec_name": "HTTP Parameter Pollution (HPP)",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-147",
@@ -14049,6 +14440,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-290",
@@ -14083,6 +14475,7 @@
         "capec_id": "CAPEC-462",
         "capec_name": "Cross-Domain Search Timing",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-208",
@@ -14148,6 +14541,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-209",
@@ -14249,6 +14643,9 @@
         "capec_id": "CAPEC-464",
         "capec_name": "Evercookie",
         "families": [],
+        "related_attack_techniques": [
+            "T1606.001"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-359",
@@ -14276,6 +14673,9 @@
         "capec_id": "CAPEC-465",
         "capec_name": "Transparent Proxy Abuse",
         "families": [],
+        "related_attack_techniques": [
+            "T1090.001"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-441",
@@ -14300,6 +14700,7 @@
         "capec_id": "CAPEC-466",
         "capec_name": "Leveraging Active Adversary in the Middle Attacks to Bypass Same Origin Policy",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-300",
@@ -14330,6 +14731,7 @@
             "malware_backdoor",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-352",
@@ -14386,6 +14788,7 @@
         "capec_id": "CAPEC-468",
         "capec_name": "Generic Cross-Browser Cross-Domain Theft",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-149",
@@ -14458,6 +14861,9 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [
+            "T1499.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -14509,6 +14915,7 @@
         "capec_id": "CAPEC-47",
         "capec_name": "Buffer Overflow via Parameter Expansion",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-118",
@@ -14739,6 +15146,7 @@
             "authentication_bruteforce",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-250",
@@ -14813,6 +15221,11 @@
         "capec_id": "CAPEC-471",
         "capec_name": "Search Order Hijacking",
         "families": [],
+        "related_attack_techniques": [
+            "T1574.001",
+            "T1574.004",
+            "T1574.008"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-427",
@@ -14840,6 +15253,7 @@
         "capec_id": "CAPEC-472",
         "capec_name": "Browser Fingerprinting",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -14869,6 +15283,10 @@
         "capec_name": "Signature Spoof",
         "families": [
             "authentication_bruteforce"
+        ],
+        "related_attack_techniques": [
+            "T1036.001",
+            "T1553.002"
         ],
         "related_cwe": [
             {
@@ -14954,6 +15372,9 @@
         "capec_id": "CAPEC-474",
         "capec_name": "Signature Spoofing by Key Theft",
         "families": [],
+        "related_attack_techniques": [
+            "T1552.004"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-522",
@@ -14979,6 +15400,7 @@
         "capec_id": "CAPEC-475",
         "capec_name": "Signature Spoofing by Improper Validation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-295",
@@ -15052,6 +15474,7 @@
         "capec_id": "CAPEC-476",
         "capec_name": "Signature Spoofing by Misrepresentation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-290",
@@ -15071,6 +15494,7 @@
         "capec_id": "CAPEC-477",
         "capec_name": "Signature Spoofing by Mixing Signed and Unsigned Content",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-311",
@@ -15141,6 +15565,10 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [
+            "T1543.003",
+            "T1574.011"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -15166,6 +15594,9 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1553.004"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -15190,6 +15621,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-241",
@@ -15227,6 +15659,9 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [
+            "T1611"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-693",
@@ -15248,6 +15683,9 @@
         "families": [
             "dos_ddos_botnet_c2",
             "malware_backdoor"
+        ],
+        "related_attack_techniques": [
+            "T1090.004"
         ],
         "related_cwe": [
             {
@@ -15271,6 +15709,11 @@
         "capec_name": "TCP Flood",
         "families": [
             "dos_ddos_botnet_c2"
+        ],
+        "related_attack_techniques": [
+            "T1498.001",
+            "T1499.001",
+            "T1499.002"
         ],
         "related_cwe": [
             {
@@ -15306,6 +15749,9 @@
         "capec_id": "CAPEC-485",
         "capec_name": "Signature Spoofing by Key Recreation",
         "families": [],
+        "related_attack_techniques": [
+            "T1552.004"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-330",
@@ -15341,6 +15787,7 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -15377,6 +15824,7 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -15412,6 +15860,9 @@
         "capec_name": "HTTP Flood",
         "families": [
             "dos_ddos_botnet_c2"
+        ],
+        "related_attack_techniques": [
+            "T1499.002"
         ],
         "related_cwe": [
             {
@@ -15449,6 +15900,9 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [
+            "T1499.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -15484,6 +15938,9 @@
         "capec_name": "Password Brute Forcing",
         "families": [
             "authentication_bruteforce"
+        ],
+        "related_attack_techniques": [
+            "T1110.001"
         ],
         "related_cwe": [
             {
@@ -15627,6 +16084,9 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [
+            "T1498.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -15665,6 +16125,7 @@
             "malware_backdoor",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -15699,6 +16160,7 @@
         "capec_id": "CAPEC-492",
         "capec_name": "Regular Expression Exponential Blowup",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1333",
@@ -15746,6 +16208,7 @@
         "capec_id": "CAPEC-493",
         "capec_name": "SOAP Array Blowup",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -15783,6 +16246,7 @@
             "dos_ddos_botnet_c2",
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-404",
@@ -15840,6 +16304,7 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-404",
@@ -15897,6 +16362,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-404",
@@ -15952,6 +16418,9 @@
         "capec_id": "CAPEC-497",
         "capec_name": "File Discovery",
         "families": [],
+        "related_attack_techniques": [
+            "T1083"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -15980,6 +16449,7 @@
         "capec_id": "CAPEC-498",
         "capec_name": "Probe iOS Screenshots",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-359",
@@ -16010,6 +16480,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-925",
@@ -16037,6 +16508,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-285",
@@ -16074,6 +16546,7 @@
         "capec_id": "CAPEC-50",
         "capec_name": "Password Recovery Exploitation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-522",
@@ -16119,6 +16592,7 @@
         "capec_id": "CAPEC-500",
         "capec_name": "WebView Injection",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-749",
@@ -16158,6 +16632,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-923",
@@ -16179,6 +16654,7 @@
         "capec_id": "CAPEC-502",
         "capec_name": "Intent Spoof",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -16201,6 +16677,7 @@
         "capec_id": "CAPEC-503",
         "capec_name": "WebView Exposure",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -16225,6 +16702,9 @@
         "families": [
             "authentication_bruteforce",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1036.004"
         ],
         "related_cwe": [
             {
@@ -16252,6 +16732,7 @@
         "capec_id": "CAPEC-506",
         "capec_name": "Tapjacking",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1021",
@@ -16280,6 +16761,7 @@
         "families": [
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -16329,6 +16811,9 @@
         "families": [
             "authentication_bruteforce",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1558.003"
         ],
         "related_cwe": [
             {
@@ -16453,6 +16938,7 @@
             "ransomware_data_impact",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-285",
@@ -16521,6 +17007,7 @@
         "capec_id": "CAPEC-510",
         "capec_name": "SaaS User Request Forgery",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-346",
@@ -16542,6 +17029,7 @@
         "capec_id": "CAPEC-52",
         "capec_name": "Embedding NULL Bytes",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-158",
@@ -16680,6 +17168,10 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [
+            "T1498.001",
+            "T1499.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-770",
@@ -16714,6 +17206,7 @@
         "capec_id": "CAPEC-53",
         "capec_name": "Postfix, Null Terminate, and Backslash",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-158",
@@ -16851,6 +17344,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-494",
@@ -16880,6 +17374,7 @@
         "capec_id": "CAPEC-536",
         "capec_name": "Data Injected During Configuration",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -16902,6 +17397,9 @@
         "capec_id": "CAPEC-538",
         "capec_name": "Open-Source Library Manipulation",
         "families": [],
+        "related_attack_techniques": [
+            "T1195.001"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-494",
@@ -16961,6 +17459,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-209",
@@ -16994,6 +17493,7 @@
         "capec_id": "CAPEC-540",
         "capec_name": "Overread Buffers",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-125",
@@ -17023,6 +17523,9 @@
         "capec_id": "CAPEC-541",
         "capec_name": "Application Fingerprinting",
         "families": [],
+        "related_attack_techniques": [
+            "T1592.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-204",
@@ -17067,6 +17570,10 @@
         "capec_id": "CAPEC-545",
         "capec_name": "Pull Data from System Resources",
         "families": [],
+        "related_attack_techniques": [
+            "T1005",
+            "T1555.001"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1239",
@@ -17187,6 +17694,7 @@
         "capec_id": "CAPEC-546",
         "capec_name": "Incomplete Data Deletion in a Multi-Tenant Environment",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1266",
@@ -17241,6 +17749,7 @@
         "families": [
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-829",
@@ -17279,6 +17788,9 @@
         "families": [
             "authentication_bruteforce",
             "web_injection"
+        ],
+        "related_attack_techniques": [
+            "T1110.002"
         ],
         "related_cwe": [
             {
@@ -17419,6 +17931,9 @@
         "capec_id": "CAPEC-550",
         "capec_name": "Install New Service",
         "families": [],
+        "related_attack_techniques": [
+            "T1543"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -17441,6 +17956,9 @@
         "capec_id": "CAPEC-551",
         "capec_name": "Modify Existing Service",
         "families": [],
+        "related_attack_techniques": [
+            "T1543"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -17483,6 +18001,11 @@
             "authentication_bruteforce",
             "malware_backdoor"
         ],
+        "related_attack_techniques": [
+            "T1014",
+            "T1542.003",
+            "T1547.006"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -17505,6 +18028,7 @@
         "capec_id": "CAPEC-554",
         "capec_name": "Functionality Bypass",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1299",
@@ -17543,6 +18067,11 @@
         "families": [
             "authentication_bruteforce",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1021",
+            "T1114.002",
+            "T1133"
         ],
         "related_cwe": [
             {
@@ -17663,6 +18192,9 @@
         "capec_id": "CAPEC-556",
         "capec_name": "Replace File Extension Handlers",
         "families": [],
+        "related_attack_techniques": [
+            "T1546.001"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -17686,6 +18218,10 @@
         "capec_name": "Replace Trusted Executable",
         "families": [
             "malware_backdoor"
+        ],
+        "related_attack_techniques": [
+            "T1505.005",
+            "T1546.008"
         ],
         "related_cwe": [
             {
@@ -17711,6 +18247,9 @@
         "families": [
             "authentication_bruteforce",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1078"
         ],
         "related_cwe": [
             {
@@ -17853,6 +18392,9 @@
             "malware_backdoor",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1021.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-262",
@@ -17972,6 +18514,9 @@
         "capec_id": "CAPEC-562",
         "capec_name": "Modify Shared File",
         "families": [],
+        "related_attack_techniques": [
+            "T1080"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -17996,6 +18541,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -18019,6 +18565,12 @@
         "capec_name": "Run Software at Logon",
         "families": [
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1037",
+            "T1543.001",
+            "T1543.004",
+            "T1547"
         ],
         "related_cwe": [
             {
@@ -18044,6 +18596,9 @@
         "families": [
             "authentication_bruteforce",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1110.003"
         ],
         "related_cwe": [
             {
@@ -18171,6 +18726,9 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [
+            "T1040"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-287",
@@ -18232,6 +18790,9 @@
         "capec_id": "CAPEC-573",
         "capec_name": "Process Footprinting",
         "families": [],
+        "related_attack_techniques": [
+            "T1057"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -18260,6 +18821,9 @@
         "capec_id": "CAPEC-574",
         "capec_name": "Services Footprinting",
         "families": [],
+        "related_attack_techniques": [
+            "T1007"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -18288,6 +18852,9 @@
         "capec_id": "CAPEC-575",
         "capec_name": "Account Footprinting",
         "families": [],
+        "related_attack_techniques": [
+            "T1087"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -18316,6 +18883,10 @@
         "capec_id": "CAPEC-576",
         "capec_name": "Group Permission Footprinting",
         "families": [],
+        "related_attack_techniques": [
+            "T1069",
+            "T1615"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -18346,6 +18917,9 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [
+            "T1033"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -18374,6 +18948,15 @@
         "capec_id": "CAPEC-578",
         "capec_name": "Disable Security Software",
         "families": [],
+        "related_attack_techniques": [
+            "T1556.006",
+            "T1562.001",
+            "T1562.002",
+            "T1562.004",
+            "T1562.007",
+            "T1562.008",
+            "T1562.009"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-284",
@@ -18396,6 +18979,9 @@
         "capec_id": "CAPEC-579",
         "capec_name": "Replace Winlogon Helper DLL",
         "families": [],
+        "related_attack_techniques": [
+            "T1547.004"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-15",
@@ -18421,6 +19007,7 @@
         "capec_id": "CAPEC-58",
         "capec_name": "Restful Privilege Elevation",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-267",
@@ -18460,6 +19047,9 @@
         "capec_id": "CAPEC-580",
         "capec_name": "System Footprinting",
         "families": [],
+        "related_attack_techniques": [
+            "T1082"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-204",
@@ -18504,6 +19094,7 @@
         "capec_id": "CAPEC-586",
         "capec_name": "Object Injection",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-502",
@@ -18537,6 +19128,7 @@
         "families": [
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1021",
@@ -18567,6 +19159,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -18657,6 +19250,7 @@
         "capec_id": "CAPEC-589",
         "capec_name": "DNS Blocking",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-300",
@@ -18687,6 +19281,7 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -18880,6 +19475,7 @@
         "capec_id": "CAPEC-590",
         "capec_name": "IP Address Blocking",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-300",
@@ -18911,6 +19507,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-79",
@@ -18952,6 +19549,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-79",
@@ -18991,6 +19589,11 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [
+            "T1185",
+            "T1550.001",
+            "T1563"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-287",
@@ -19024,6 +19627,7 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-940",
@@ -19045,6 +19649,7 @@
         "capec_id": "CAPEC-595",
         "capec_name": "Connection Reset",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-940",
@@ -19066,6 +19671,7 @@
         "capec_id": "CAPEC-596",
         "capec_name": "TCP RST Injection",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-940",
@@ -19089,6 +19695,7 @@
         "families": [
             "authentication_bruteforce"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-36",
@@ -19119,6 +19726,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-146",
@@ -19247,6 +19855,10 @@
         "capec_name": "Reusing Session IDs (aka Session Replay)",
         "families": [
             "authentication_bruteforce"
+        ],
+        "related_attack_techniques": [
+            "T1134.001",
+            "T1550.004"
         ],
         "related_cwe": [
             {
@@ -19445,6 +20057,9 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1110.004"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-262",
@@ -19568,6 +20183,7 @@
         "capec_id": "CAPEC-606",
         "capec_name": "Weakening of Cellular Encryption",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-757",
@@ -19589,6 +20205,7 @@
         "capec_id": "CAPEC-608",
         "capec_name": "Cryptanalysis of Cellular Encryption",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-327",
@@ -19627,6 +20244,9 @@
         "capec_id": "CAPEC-609",
         "capec_name": "Cellular Traffic Intercept",
         "families": [],
+        "related_attack_techniques": [
+            "T1111"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-311",
@@ -19667,6 +20287,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-384",
@@ -19742,6 +20363,7 @@
         "capec_id": "CAPEC-612",
         "capec_name": "WiFi MAC Address Tracking",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-201",
@@ -19787,6 +20409,7 @@
         "capec_id": "CAPEC-613",
         "capec_name": "WiFi SSID Tracking",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-201",
@@ -19834,6 +20457,7 @@
         "families": [
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-327",
@@ -19872,6 +20496,7 @@
         "capec_id": "CAPEC-615",
         "capec_name": "Evil Twin Wi-Fi Attack",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-300",
@@ -19899,6 +20524,9 @@
         "capec_id": "CAPEC-616",
         "capec_name": "Establish Rogue Location",
         "families": [],
+        "related_attack_techniques": [
+            "T1036.005"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -19927,6 +20555,7 @@
         "capec_id": "CAPEC-618",
         "capec_name": "Cellular Broadcast Message Request",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-201",
@@ -19953,6 +20582,7 @@
         "capec_id": "CAPEC-619",
         "capec_name": "Signal Strength Tracking",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-201",
@@ -19983,6 +20613,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1275",
@@ -20113,6 +20744,9 @@
         "capec_id": "CAPEC-620",
         "capec_name": "Drop Encryption Level",
         "families": [],
+        "related_attack_techniques": [
+            "T1600"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-757",
@@ -20134,6 +20768,7 @@
         "capec_id": "CAPEC-621",
         "capec_name": "Analysis of Packet Timing and Sizes",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-201",
@@ -20160,6 +20795,7 @@
         "capec_id": "CAPEC-622",
         "capec_name": "Electromagnetic Side-Channel Attack",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-201",
@@ -20186,6 +20822,7 @@
         "capec_id": "CAPEC-623",
         "capec_name": "Compromising Emanations Attack",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-201",
@@ -20212,6 +20849,7 @@
         "capec_id": "CAPEC-624",
         "capec_name": "Hardware Fault Injection",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1247",
@@ -20351,6 +20989,7 @@
             "authentication_bruteforce",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1247",
@@ -20491,6 +21130,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -20566,6 +21206,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1007",
@@ -20592,6 +21233,9 @@
         "families": [
             "authentication_bruteforce",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1134"
         ],
         "related_cwe": [
             {
@@ -20639,6 +21283,10 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [
+            "T1123",
+            "T1125"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-267",
@@ -20664,6 +21312,9 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [
+            "T1036.007"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-162",
@@ -20688,6 +21339,13 @@
         "capec_id": "CAPEC-636",
         "capec_name": "Hiding Malicious Data or Code within Files",
         "families": [],
+        "related_attack_techniques": [
+            "T1001.002",
+            "T1027.003",
+            "T1027.004",
+            "T1218.001",
+            "T1221"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-506",
@@ -20716,6 +21374,9 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [
+            "T1115"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-267",
@@ -20738,6 +21399,13 @@
         "capec_id": "CAPEC-639",
         "capec_name": "Probe System Files",
         "families": [],
+        "related_attack_techniques": [
+            "T1039",
+            "T1552.001",
+            "T1552.003",
+            "T1552.004",
+            "T1552.006"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-552",
@@ -20764,6 +21432,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-172",
@@ -20962,6 +21631,12 @@
             "malware_backdoor",
             "web_injection"
         ],
+        "related_attack_techniques": [
+            "T1505.005",
+            "T1574.006",
+            "T1574.013",
+            "T1620"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-114",
@@ -21013,6 +21688,9 @@
         "capec_id": "CAPEC-641",
         "capec_name": "DLL Side-Loading",
         "families": [],
+        "related_attack_techniques": [
+            "T1574.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-706",
@@ -21035,6 +21713,11 @@
         "capec_name": "Replace Binaries",
         "families": [
             "malware_backdoor"
+        ],
+        "related_attack_techniques": [
+            "T1505.005",
+            "T1554",
+            "T1574.005"
         ],
         "related_cwe": [
             {
@@ -21086,6 +21769,9 @@
             "malware_backdoor",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1135"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -21130,6 +21816,9 @@
         "families": [
             "authentication_bruteforce",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1550.002"
         ],
         "related_cwe": [
             {
@@ -21197,6 +21886,9 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1550.003"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-294",
@@ -21251,6 +21943,9 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [
+            "T1120"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -21281,6 +21976,11 @@
         "families": [
             "malware_backdoor",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1005",
+            "T1012",
+            "T1552.002"
         ],
         "related_cwe": [
             {
@@ -21322,6 +22022,10 @@
             "malware_backdoor",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1113",
+            "T1513"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-267",
@@ -21344,6 +22048,9 @@
         "capec_id": "CAPEC-649",
         "capec_name": "Adding a Space to a File Extension",
         "families": [],
+        "related_attack_techniques": [
+            "T1036.006"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-46",
@@ -21363,6 +22070,9 @@
         "capec_id": "CAPEC-65",
         "capec_name": "Sniff Application Code",
         "families": [],
+        "related_attack_techniques": [
+            "T1040"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-311",
@@ -21442,6 +22152,9 @@
         "capec_id": "CAPEC-650",
         "capec_name": "Upload a Web Shell to a Web Server",
         "families": [],
+        "related_attack_techniques": [
+            "T1505.003"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-287",
@@ -21488,6 +22201,9 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [
+            "T1111"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-200",
@@ -21518,6 +22234,9 @@
         "families": [
             "authentication_bruteforce",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1558"
         ],
         "related_cwe": [
             {
@@ -21670,6 +22389,7 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-262",
@@ -21796,6 +22516,10 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1056",
+            "T1548.004"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1021",
@@ -21822,6 +22546,9 @@
         "capec_id": "CAPEC-657",
         "capec_name": "Malicious Automated Software Update via Spoofing",
         "families": [],
+        "related_attack_techniques": [
+            "T1072"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-494",
@@ -21855,6 +22582,7 @@
             "ransomware_data_impact",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1286",
@@ -21912,6 +22640,9 @@
         "capec_id": "CAPEC-660",
         "capec_name": "Root/Jailbreak Detection Evasion via Hooking",
         "families": [],
+        "related_attack_techniques": [
+            "T1055"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-829",
@@ -21948,6 +22679,7 @@
         "capec_id": "CAPEC-661",
         "capec_name": "Root/Jailbreak Detection Evasion via Debugging",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-489",
@@ -21974,6 +22706,9 @@
             "authentication_bruteforce",
             "malware_backdoor",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1185"
         ],
         "related_cwe": [
             {
@@ -22023,6 +22758,7 @@
         "capec_id": "CAPEC-663",
         "capec_name": "Exploitation of Transient Instruction Execution",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1037",
@@ -22074,6 +22810,7 @@
             "authentication_bruteforce",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -22133,6 +22870,11 @@
         "capec_name": "Exploitation of Thunderbolt Protection Flaws",
         "families": [
             "authentication_bruteforce"
+        ],
+        "related_attack_techniques": [
+            "T1211",
+            "T1542.002",
+            "T1556"
         ],
         "related_cwe": [
             {
@@ -22228,6 +22970,10 @@
         "families": [
             "dos_ddos_botnet_c2"
         ],
+        "related_attack_techniques": [
+            "T1498.001",
+            "T1499.001"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-404",
@@ -22259,6 +23005,7 @@
         "families": [
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-290",
@@ -22279,6 +23026,9 @@
         "capec_name": "Key Negotiation of Bluetooth Attack (KNOB)",
         "families": [
             "authentication_bruteforce"
+        ],
+        "related_attack_techniques": [
+            "T1565.002"
         ],
         "related_cwe": [
             {
@@ -22344,6 +23094,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-120",
@@ -22498,6 +23249,9 @@
         "capec_id": "CAPEC-675",
         "capec_name": "Retrieve Data from Decommissioned Devices",
         "families": [],
+        "related_attack_techniques": [
+            "T1052"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1266",
@@ -22524,6 +23278,7 @@
             "authentication_bruteforce",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1286",
@@ -22558,6 +23313,7 @@
         "capec_id": "CAPEC-679",
         "capec_name": "Exploitation of Improperly Configured or Implemented Memory Protections",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1222",
@@ -22706,6 +23462,9 @@
         "capec_id": "CAPEC-68",
         "capec_name": "Subvert Code-signing Facilities",
         "families": [],
+        "related_attack_techniques": [
+            "T1553.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1326",
@@ -22761,6 +23520,7 @@
         "capec_id": "CAPEC-680",
         "capec_name": "Exploitation of Improperly Controlled Registers",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1224",
@@ -22849,6 +23609,7 @@
         "capec_id": "CAPEC-681",
         "capec_name": "Exploitation of Improperly Controlled Hardware Security Identifiers",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1259",
@@ -22929,6 +23690,7 @@
             "ransomware_data_impact",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1277",
@@ -22974,6 +23736,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-15",
@@ -23031,6 +23794,10 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [
+            "T1195.001",
+            "T1195.002"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-494",
@@ -23063,6 +23830,7 @@
             "malware_backdoor",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-494",
@@ -23094,6 +23862,7 @@
         "families": [
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-494",
@@ -23123,6 +23892,9 @@
         "capec_id": "CAPEC-694",
         "capec_name": "System Location Discovery",
         "families": [],
+        "related_attack_techniques": [
+            "T1614"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-497",
@@ -23146,6 +23918,9 @@
         "capec_id": "CAPEC-695",
         "capec_name": "Repo Jacking",
         "families": [],
+        "related_attack_techniques": [
+            "T1195.001"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-494",
@@ -23203,6 +23978,7 @@
         "capec_id": "CAPEC-696",
         "capec_name": "Load Value Injection",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1342",
@@ -23225,6 +24001,9 @@
         "capec_id": "CAPEC-697",
         "capec_name": "DHCP Spoofing",
         "families": [],
+        "related_attack_techniques": [
+            "T1557.003"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-923",
@@ -23248,6 +24027,10 @@
         "families": [
             "malware_backdoor",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1176",
+            "T1505.004"
         ],
         "related_cwe": [
             {
@@ -23299,6 +24082,7 @@
         "capec_id": "CAPEC-699",
         "capec_name": "Eavesdropping on a Monitor",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1300",
@@ -23327,6 +24111,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -23480,6 +24265,9 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [
+            "T1078.001"
+        ],
         "related_cwe": [
             {
                 "cwe_id": "CWE-262",
@@ -23616,6 +24404,7 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-294",
@@ -23651,6 +24440,7 @@
         "capec_id": "CAPEC-702",
         "capec_name": "Exploiting Incorrect Chaining or Granularity of Hardware Debug Components",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1296",
@@ -23677,6 +24467,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-172",
@@ -23868,6 +24659,7 @@
             "ransomware_data_impact",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-172",
@@ -24004,6 +24796,7 @@
             "malware_backdoor",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-116",
@@ -24166,6 +24959,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1245",
@@ -24281,6 +25075,7 @@
         "capec_id": "CAPEC-75",
         "capec_name": "Manipulating Writeable Configuration Files",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-346",
@@ -24377,6 +25172,7 @@
         "capec_id": "CAPEC-76",
         "capec_name": "Manipulating Web Input to File System Calls",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-15",
@@ -24618,6 +25414,7 @@
         "capec_id": "CAPEC-77",
         "capec_name": "Manipulating User-Controlled Variables",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1321",
@@ -24765,6 +25562,7 @@
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-172",
@@ -24971,6 +25769,7 @@
         "capec_id": "CAPEC-79",
         "capec_name": "Using Slashes in Alternate Encoding",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-173",
@@ -25198,6 +25997,7 @@
         "capec_id": "CAPEC-8",
         "capec_name": "Buffer Overflow in an API Call",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-118",
@@ -25385,6 +26185,7 @@
         "families": [
             "malware_backdoor"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-172",
@@ -25553,6 +26354,7 @@
         "capec_id": "CAPEC-81",
         "capec_name": "Web Server Logs Tampering",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-116",
@@ -25760,6 +26562,7 @@
             "authentication_bruteforce",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -25854,6 +26657,7 @@
             "malware_backdoor",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-707",
@@ -25897,6 +26701,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-113",
@@ -26088,6 +26893,7 @@
             "social_engineering_credential_theft",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-80",
@@ -26114,6 +26920,7 @@
         "capec_id": "CAPEC-87",
         "capec_name": "Forceful Browsing",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-285",
@@ -26178,6 +26985,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-20",
@@ -26297,6 +27105,7 @@
         "families": [
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-346",
@@ -26334,6 +27143,7 @@
         "capec_id": "CAPEC-9",
         "capec_name": "Buffer Overflow in Local Command-Line Utilities",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-118",
@@ -26522,6 +27332,7 @@
             "authentication_bruteforce",
             "social_engineering_credential_theft"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-301",
@@ -26555,6 +27366,7 @@
         "capec_id": "CAPEC-92",
         "capec_name": "Forced Integer Overflow",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-120",
@@ -26724,6 +27536,7 @@
         "families": [
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-117",
@@ -26786,6 +27599,9 @@
             "authentication_bruteforce",
             "dos_ddos_botnet_c2",
             "ransomware_data_impact"
+        ],
+        "related_attack_techniques": [
+            "T1557"
         ],
         "related_cwe": [
             {
@@ -26882,6 +27698,7 @@
             "ransomware_data_impact",
             "web_injection"
         ],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-538",
@@ -26905,6 +27722,7 @@
         "capec_id": "CAPEC-96",
         "capec_name": "Block Access to Libraries",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-589",
@@ -26930,6 +27748,7 @@
         "capec_id": "CAPEC-97",
         "capec_name": "Cryptanalysis",
         "families": [],
+        "related_attack_techniques": [],
         "related_cwe": [
             {
                 "cwe_id": "CWE-1204",
@@ -27041,6 +27860,10 @@
         "families": [
             "authentication_bruteforce",
             "social_engineering_credential_theft"
+        ],
+        "related_attack_techniques": [
+            "T1566",
+            "T1598"
         ],
         "related_cwe": [
             {
