@@ -1,0 +1,1090 @@
+[
+    {
+        "Technique_ID": "1574.010",
+        "CAPEC_ID": "1"
+    },
+    {
+        "Technique_ID": "1036.006",
+        "CAPEC_ID": "11"
+    },
+    {
+        "Technique_ID": "1110",
+        "CAPEC_ID": "112"
+    },
+    {
+        "Technique_ID": "1548",
+        "CAPEC_ID": "114"
+    },
+    {
+        "Technique_ID": "1548",
+        "CAPEC_ID": "115"
+    },
+    {
+        "Technique_ID": "1548",
+        "CAPEC_ID": "122"
+    },
+    {
+        "Technique_ID": "1498.001",
+        "CAPEC_ID": "125"
+    },
+    {
+        "Technique_ID": "1499",
+        "CAPEC_ID": "125"
+    },
+    {
+        "Technique_ID": "1083",
+        "CAPEC_ID": "127"
+    },
+    {
+        "Technique_ID": "1562.003",
+        "CAPEC_ID": "13"
+    },
+    {
+        "Technique_ID": "1574.006",
+        "CAPEC_ID": "13"
+    },
+    {
+        "Technique_ID": "1574.007",
+        "CAPEC_ID": "13"
+    },
+    {
+        "Technique_ID": "1499.003",
+        "CAPEC_ID": "130"
+    },
+    {
+        "Technique_ID": "1499",
+        "CAPEC_ID": "131"
+    },
+    {
+        "Technique_ID": "1547.009",
+        "CAPEC_ID": "132"
+    },
+    {
+        "Technique_ID": "1557.002",
+        "CAPEC_ID": "141"
+    },
+    {
+        "Technique_ID": "1584.002",
+        "CAPEC_ID": "142"
+    },
+    {
+        "Technique_ID": "1491",
+        "CAPEC_ID": "148"
+    },
+    {
+        "Technique_ID": "1003",
+        "CAPEC_ID": "150"
+    },
+    {
+        "Technique_ID": "1119",
+        "CAPEC_ID": "150"
+    },
+    {
+        "Technique_ID": "1213",
+        "CAPEC_ID": "150"
+    },
+    {
+        "Technique_ID": "1530",
+        "CAPEC_ID": "150"
+    },
+    {
+        "Technique_ID": "1555",
+        "CAPEC_ID": "150"
+    },
+    {
+        "Technique_ID": "1602",
+        "CAPEC_ID": "150"
+    },
+    {
+        "Technique_ID": "1040",
+        "CAPEC_ID": "158"
+    },
+    {
+        "Technique_ID": "1111",
+        "CAPEC_ID": "158"
+    },
+    {
+        "Technique_ID": "1574.008",
+        "CAPEC_ID": "159"
+    },
+    {
+        "Technique_ID": "1534",
+        "CAPEC_ID": "163"
+    },
+    {
+        "Technique_ID": "1566.001",
+        "CAPEC_ID": "163"
+    },
+    {
+        "Technique_ID": "1566.002",
+        "CAPEC_ID": "163"
+    },
+    {
+        "Technique_ID": "1566.003",
+        "CAPEC_ID": "163"
+    },
+    {
+        "Technique_ID": "1598.001",
+        "CAPEC_ID": "163"
+    },
+    {
+        "Technique_ID": "1598.002",
+        "CAPEC_ID": "163"
+    },
+    {
+        "Technique_ID": "1598.003",
+        "CAPEC_ID": "163"
+    },
+    {
+        "Technique_ID": "1036.003",
+        "CAPEC_ID": "165"
+    },
+    {
+        "Technique_ID": "1217",
+        "CAPEC_ID": "169"
+    },
+    {
+        "Technique_ID": "1592",
+        "CAPEC_ID": "169"
+    },
+    {
+        "Technique_ID": "1595",
+        "CAPEC_ID": "169"
+    },
+    {
+        "Technique_ID": "1574.005",
+        "CAPEC_ID": "17"
+    },
+    {
+        "Technique_ID": "1574.010",
+        "CAPEC_ID": "17"
+    },
+    {
+        "Technique_ID": "1036",
+        "CAPEC_ID": "177"
+    },
+    {
+        "Technique_ID": "1574.010",
+        "CAPEC_ID": "180"
+    },
+    {
+        "Technique_ID": "1195.002",
+        "CAPEC_ID": "186"
+    },
+    {
+        "Technique_ID": "1072",
+        "CAPEC_ID": "187"
+    },
+    {
+        "Technique_ID": "1027.009",
+        "CAPEC_ID": "19"
+    },
+    {
+        "Technique_ID": "1546.004",
+        "CAPEC_ID": "19"
+    },
+    {
+        "Technique_ID": "1546.016",
+        "CAPEC_ID": "19"
+    },
+    {
+        "Technique_ID": "1552.001",
+        "CAPEC_ID": "191"
+    },
+    {
+        "Technique_ID": "1134.002",
+        "CAPEC_ID": "196"
+    },
+    {
+        "Technique_ID": "1134.003",
+        "CAPEC_ID": "196"
+    },
+    {
+        "Technique_ID": "1606",
+        "CAPEC_ID": "196"
+    },
+    {
+        "Technique_ID": "1531",
+        "CAPEC_ID": "2"
+    },
+    {
+        "Technique_ID": "1112",
+        "CAPEC_ID": "203"
+    },
+    {
+        "Technique_ID": "1647",
+        "CAPEC_ID": "203"
+    },
+    {
+        "Technique_ID": "1005",
+        "CAPEC_ID": "204"
+    },
+    {
+        "Technique_ID": "1553.002",
+        "CAPEC_ID": "206"
+    },
+    {
+        "Technique_ID": "1134",
+        "CAPEC_ID": "21"
+    },
+    {
+        "Technique_ID": "1528",
+        "CAPEC_ID": "21"
+    },
+    {
+        "Technique_ID": "1539",
+        "CAPEC_ID": "21"
+    },
+    {
+        "Technique_ID": "1499",
+        "CAPEC_ID": "227"
+    },
+    {
+        "Technique_ID": "1548",
+        "CAPEC_ID": "233"
+    },
+    {
+        "Technique_ID": "1499.004",
+        "CAPEC_ID": "25"
+    },
+    {
+        "Technique_ID": "1055",
+        "CAPEC_ID": "251"
+    },
+    {
+        "Technique_ID": "1027",
+        "CAPEC_ID": "267"
+    },
+    {
+        "Technique_ID": "1070",
+        "CAPEC_ID": "268"
+    },
+    {
+        "Technique_ID": "1562.002",
+        "CAPEC_ID": "268"
+    },
+    {
+        "Technique_ID": "1562.003",
+        "CAPEC_ID": "268"
+    },
+    {
+        "Technique_ID": "1562.008",
+        "CAPEC_ID": "268"
+    },
+    {
+        "Technique_ID": "1547.001",
+        "CAPEC_ID": "270"
+    },
+    {
+        "Technique_ID": "1547.014",
+        "CAPEC_ID": "270"
+    },
+    {
+        "Technique_ID": "1018",
+        "CAPEC_ID": "292"
+    },
+    {
+        "Technique_ID": "1124",
+        "CAPEC_ID": "295"
+    },
+    {
+        "Technique_ID": "1055.003",
+        "CAPEC_ID": "30"
+    },
+    {
+        "Technique_ID": "1046",
+        "CAPEC_ID": "300"
+    },
+    {
+        "Technique_ID": "1016",
+        "CAPEC_ID": "309"
+    },
+    {
+        "Technique_ID": "1049",
+        "CAPEC_ID": "309"
+    },
+    {
+        "Technique_ID": "1590",
+        "CAPEC_ID": "309"
+    },
+    {
+        "Technique_ID": "1539",
+        "CAPEC_ID": "31"
+    },
+    {
+        "Technique_ID": "1082",
+        "CAPEC_ID": "312"
+    },
+    {
+        "Technique_ID": "1082",
+        "CAPEC_ID": "313"
+    },
+    {
+        "Technique_ID": "1027.006",
+        "CAPEC_ID": "35"
+    },
+    {
+        "Technique_ID": "1027.009",
+        "CAPEC_ID": "35"
+    },
+    {
+        "Technique_ID": "1564.009",
+        "CAPEC_ID": "35"
+    },
+    {
+        "Technique_ID": "1005",
+        "CAPEC_ID": "37"
+    },
+    {
+        "Technique_ID": "1552.004",
+        "CAPEC_ID": "37"
+    },
+    {
+        "Technique_ID": "1574.007",
+        "CAPEC_ID": "38"
+    },
+    {
+        "Technique_ID": "1574.009",
+        "CAPEC_ID": "38"
+    },
+    {
+        "Technique_ID": "1056.004",
+        "CAPEC_ID": "383"
+    },
+    {
+        "Technique_ID": "1589",
+        "CAPEC_ID": "407"
+    },
+    {
+        "Technique_ID": "1195",
+        "CAPEC_ID": "438"
+    },
+    {
+        "Technique_ID": "1195",
+        "CAPEC_ID": "439"
+    },
+    {
+        "Technique_ID": "1195.003",
+        "CAPEC_ID": "440"
+    },
+    {
+        "Technique_ID": "1200",
+        "CAPEC_ID": "440"
+    },
+    {
+        "Technique_ID": "1195.001",
+        "CAPEC_ID": "442"
+    },
+    {
+        "Technique_ID": "1195.002",
+        "CAPEC_ID": "442"
+    },
+    {
+        "Technique_ID": "1195.002",
+        "CAPEC_ID": "443"
+    },
+    {
+        "Technique_ID": "1195.003",
+        "CAPEC_ID": "443"
+    },
+    {
+        "Technique_ID": "1195.001",
+        "CAPEC_ID": "445"
+    },
+    {
+        "Technique_ID": "1195",
+        "CAPEC_ID": "446"
+    },
+    {
+        "Technique_ID": "1027.009",
+        "CAPEC_ID": "448"
+    },
+    {
+        "Technique_ID": "1091",
+        "CAPEC_ID": "457"
+    },
+    {
+        "Technique_ID": "1092",
+        "CAPEC_ID": "457"
+    },
+    {
+        "Technique_ID": "1606.001",
+        "CAPEC_ID": "464"
+    },
+    {
+        "Technique_ID": "1090.001",
+        "CAPEC_ID": "465"
+    },
+    {
+        "Technique_ID": "1499.002",
+        "CAPEC_ID": "469"
+    },
+    {
+        "Technique_ID": "1574.001",
+        "CAPEC_ID": "471"
+    },
+    {
+        "Technique_ID": "1574.004",
+        "CAPEC_ID": "471"
+    },
+    {
+        "Technique_ID": "1574.008",
+        "CAPEC_ID": "471"
+    },
+    {
+        "Technique_ID": "1036.001",
+        "CAPEC_ID": "473"
+    },
+    {
+        "Technique_ID": "1553.002",
+        "CAPEC_ID": "473"
+    },
+    {
+        "Technique_ID": "1552.004",
+        "CAPEC_ID": "474"
+    },
+    {
+        "Technique_ID": "1574.011",
+        "CAPEC_ID": "478"
+    },
+    {
+        "Technique_ID": "1543.003",
+        "CAPEC_ID": "478"
+    },
+    {
+        "Technique_ID": "1553.004",
+        "CAPEC_ID": "479"
+    },
+    {
+        "Technique_ID": "1611",
+        "CAPEC_ID": "480"
+    },
+    {
+        "Technique_ID": "1090.004",
+        "CAPEC_ID": "481"
+    },
+    {
+        "Technique_ID": "1498.001",
+        "CAPEC_ID": "482"
+    },
+    {
+        "Technique_ID": "1499.001",
+        "CAPEC_ID": "482"
+    },
+    {
+        "Technique_ID": "1499.002",
+        "CAPEC_ID": "482"
+    },
+    {
+        "Technique_ID": "1552.004",
+        "CAPEC_ID": "485"
+    },
+    {
+        "Technique_ID": "1499.002",
+        "CAPEC_ID": "488"
+    },
+    {
+        "Technique_ID": "1499.002",
+        "CAPEC_ID": "489"
+    },
+    {
+        "Technique_ID": "1110.001",
+        "CAPEC_ID": "49"
+    },
+    {
+        "Technique_ID": "1498.002",
+        "CAPEC_ID": "490"
+    },
+    {
+        "Technique_ID": "1083",
+        "CAPEC_ID": "497"
+    },
+    {
+        "Technique_ID": "1036.004",
+        "CAPEC_ID": "504"
+    },
+    {
+        "Technique_ID": "1558.003",
+        "CAPEC_ID": "509"
+    },
+    {
+        "Technique_ID": "1195.001",
+        "CAPEC_ID": "511"
+    },
+    {
+        "Technique_ID": "1195.003",
+        "CAPEC_ID": "516"
+    },
+    {
+        "Technique_ID": "1195.003",
+        "CAPEC_ID": "520"
+    },
+    {
+        "Technique_ID": "1195.003",
+        "CAPEC_ID": "522"
+    },
+    {
+        "Technique_ID": "1195.002",
+        "CAPEC_ID": "523"
+    },
+    {
+        "Technique_ID": "1499.002",
+        "CAPEC_ID": "528"
+    },
+    {
+        "Technique_ID": "1498.001",
+        "CAPEC_ID": "528"
+    },
+    {
+        "Technique_ID": "1195.003",
+        "CAPEC_ID": "531"
+    },
+    {
+        "Technique_ID": "1495",
+        "CAPEC_ID": "532"
+    },
+    {
+        "Technique_ID": "1542.001",
+        "CAPEC_ID": "532"
+    },
+    {
+        "Technique_ID": "1195.003",
+        "CAPEC_ID": "537"
+    },
+    {
+        "Technique_ID": "1195.001",
+        "CAPEC_ID": "538"
+    },
+    {
+        "Technique_ID": "1195.003",
+        "CAPEC_ID": "539"
+    },
+    {
+        "Technique_ID": "1592.002",
+        "CAPEC_ID": "541"
+    },
+    {
+        "Technique_ID": "1587.001",
+        "CAPEC_ID": "542"
+    },
+    {
+        "Technique_ID": "1027",
+        "CAPEC_ID": "542"
+    },
+    {
+        "Technique_ID": "1036.005",
+        "CAPEC_ID": "543"
+    },
+    {
+        "Technique_ID": "1005",
+        "CAPEC_ID": "545"
+    },
+    {
+        "Technique_ID": "1555.001",
+        "CAPEC_ID": "545"
+    },
+    {
+        "Technique_ID": "1110.002",
+        "CAPEC_ID": "55"
+    },
+    {
+        "Technique_ID": "1543",
+        "CAPEC_ID": "550"
+    },
+    {
+        "Technique_ID": "1543",
+        "CAPEC_ID": "551"
+    },
+    {
+        "Technique_ID": "1014",
+        "CAPEC_ID": "552"
+    },
+    {
+        "Technique_ID": "1542.003",
+        "CAPEC_ID": "552"
+    },
+    {
+        "Technique_ID": "1547.006",
+        "CAPEC_ID": "552"
+    },
+    {
+        "Technique_ID": "1021",
+        "CAPEC_ID": "555"
+    },
+    {
+        "Technique_ID": "1114.002",
+        "CAPEC_ID": "555"
+    },
+    {
+        "Technique_ID": "1133",
+        "CAPEC_ID": "555"
+    },
+    {
+        "Technique_ID": "1546.001",
+        "CAPEC_ID": "556"
+    },
+    {
+        "Technique_ID": "1505.005",
+        "CAPEC_ID": "558"
+    },
+    {
+        "Technique_ID": "1546.008",
+        "CAPEC_ID": "558"
+    },
+    {
+        "Technique_ID": "1078",
+        "CAPEC_ID": "560"
+    },
+    {
+        "Technique_ID": "1021.002",
+        "CAPEC_ID": "561"
+    },
+    {
+        "Technique_ID": "1080",
+        "CAPEC_ID": "562"
+    },
+    {
+        "Technique_ID": "1037",
+        "CAPEC_ID": "564"
+    },
+    {
+        "Technique_ID": "1543.001",
+        "CAPEC_ID": "564"
+    },
+    {
+        "Technique_ID": "1543.004",
+        "CAPEC_ID": "564"
+    },
+    {
+        "Technique_ID": "1547",
+        "CAPEC_ID": "564"
+    },
+    {
+        "Technique_ID": "1110.003",
+        "CAPEC_ID": "565"
+    },
+    {
+        "Technique_ID": "1056.001",
+        "CAPEC_ID": "568"
+    },
+    {
+        "Technique_ID": "1056",
+        "CAPEC_ID": "569"
+    },
+    {
+        "Technique_ID": "1040",
+        "CAPEC_ID": "57"
+    },
+    {
+        "Technique_ID": "1562.002",
+        "CAPEC_ID": "571"
+    },
+    {
+        "Technique_ID": "1562.002",
+        "CAPEC_ID": "571"
+    },
+    {
+        "Technique_ID": "1562.006",
+        "CAPEC_ID": "571"
+    },
+    {
+        "Technique_ID": "1562.008",
+        "CAPEC_ID": "571"
+    },
+    {
+        "Technique_ID": "1027.001",
+        "CAPEC_ID": "572"
+    },
+    {
+        "Technique_ID": "1057",
+        "CAPEC_ID": "573"
+    },
+    {
+        "Technique_ID": "1007",
+        "CAPEC_ID": "574"
+    },
+    {
+        "Technique_ID": "1087",
+        "CAPEC_ID": "575"
+    },
+    {
+        "Technique_ID": "1069",
+        "CAPEC_ID": "576"
+    },
+    {
+        "Technique_ID": "1615",
+        "CAPEC_ID": "576"
+    },
+    {
+        "Technique_ID": "1033",
+        "CAPEC_ID": "577"
+    },
+    {
+        "Technique_ID": "1556.006",
+        "CAPEC_ID": "578"
+    },
+    {
+        "Technique_ID": "1562.001",
+        "CAPEC_ID": "578"
+    },
+    {
+        "Technique_ID": "1562.002",
+        "CAPEC_ID": "578"
+    },
+    {
+        "Technique_ID": "1562.004",
+        "CAPEC_ID": "578"
+    },
+    {
+        "Technique_ID": "1562.007",
+        "CAPEC_ID": "578"
+    },
+    {
+        "Technique_ID": "1562.008",
+        "CAPEC_ID": "578"
+    },
+    {
+        "Technique_ID": "1562.009",
+        "CAPEC_ID": "578"
+    },
+    {
+        "Technique_ID": "1547.004",
+        "CAPEC_ID": "579"
+    },
+    {
+        "Technique_ID": "1082",
+        "CAPEC_ID": "580"
+    },
+    {
+        "Technique_ID": "1518.001",
+        "CAPEC_ID": "581"
+    },
+    {
+        "Technique_ID": "1185",
+        "CAPEC_ID": "593"
+    },
+    {
+        "Technique_ID": "1550.001",
+        "CAPEC_ID": "593"
+    },
+    {
+        "Technique_ID": "1563",
+        "CAPEC_ID": "593"
+    },
+    {
+        "Technique_ID": "1134.001",
+        "CAPEC_ID": "60"
+    },
+    {
+        "Technique_ID": "1550.004",
+        "CAPEC_ID": "60"
+    },
+    {
+        "Technique_ID": "1110.004",
+        "CAPEC_ID": "600"
+    },
+    {
+        "Technique_ID": "1111",
+        "CAPEC_ID": "609"
+    },
+    {
+        "Technique_ID": "1036.005",
+        "CAPEC_ID": "616"
+    },
+    {
+        "Technique_ID": "1600",
+        "CAPEC_ID": "620"
+    },
+    {
+        "Technique_ID": "1134",
+        "CAPEC_ID": "633"
+    },
+    {
+        "Technique_ID": "1123",
+        "CAPEC_ID": "634"
+    },
+    {
+        "Technique_ID": "1125",
+        "CAPEC_ID": "634"
+    },
+    {
+        "Technique_ID": "1036.007",
+        "CAPEC_ID": "635"
+    },
+    {
+        "Technique_ID": "1001.002",
+        "CAPEC_ID": "636"
+    },
+    {
+        "Technique_ID": "1027.003",
+        "CAPEC_ID": "636"
+    },
+    {
+        "Technique_ID": "1027.004",
+        "CAPEC_ID": "636"
+    },
+    {
+        "Technique_ID": "1218.001",
+        "CAPEC_ID": "636"
+    },
+    {
+        "Technique_ID": "1221",
+        "CAPEC_ID": "636"
+    },
+    {
+        "Technique_ID": "1115",
+        "CAPEC_ID": "637"
+    },
+    {
+        "Technique_ID": "1542.002",
+        "CAPEC_ID": "638"
+    },
+    {
+        "Technique_ID": "1039",
+        "CAPEC_ID": "639"
+    },
+    {
+        "Technique_ID": "1552.001",
+        "CAPEC_ID": "639"
+    },
+    {
+        "Technique_ID": "1552.003",
+        "CAPEC_ID": "639"
+    },
+    {
+        "Technique_ID": "1552.004",
+        "CAPEC_ID": "639"
+    },
+    {
+        "Technique_ID": "1552.006",
+        "CAPEC_ID": "639"
+    },
+    {
+        "Technique_ID": "1505.005",
+        "CAPEC_ID": "640"
+    },
+    {
+        "Technique_ID": "1574.006",
+        "CAPEC_ID": "640"
+    },
+    {
+        "Technique_ID": "1574.013",
+        "CAPEC_ID": "640"
+    },
+    {
+        "Technique_ID": "1620",
+        "CAPEC_ID": "640"
+    },
+    {
+        "Technique_ID": "1574.002",
+        "CAPEC_ID": "641"
+    },
+    {
+        "Technique_ID": "1505.005",
+        "CAPEC_ID": "642"
+    },
+    {
+        "Technique_ID": "1554",
+        "CAPEC_ID": "642"
+    },
+    {
+        "Technique_ID": "1574.005",
+        "CAPEC_ID": "642"
+    },
+    {
+        "Technique_ID": "1135",
+        "CAPEC_ID": "643"
+    },
+    {
+        "Technique_ID": "1550.002",
+        "CAPEC_ID": "644"
+    },
+    {
+        "Technique_ID": "1550.003",
+        "CAPEC_ID": "645"
+    },
+    {
+        "Technique_ID": "1120",
+        "CAPEC_ID": "646"
+    },
+    {
+        "Technique_ID": "1005",
+        "CAPEC_ID": "647"
+    },
+    {
+        "Technique_ID": "1012",
+        "CAPEC_ID": "647"
+    },
+    {
+        "Technique_ID": "1552.002",
+        "CAPEC_ID": "647"
+    },
+    {
+        "Technique_ID": "1113",
+        "CAPEC_ID": "648"
+    },
+    {
+        "Technique_ID": "1513",
+        "CAPEC_ID": "648"
+    },
+    {
+        "Technique_ID": "1036.006",
+        "CAPEC_ID": "649"
+    },
+    {
+        "Technique_ID": "1040",
+        "CAPEC_ID": "65"
+    },
+    {
+        "Technique_ID": "1505.003",
+        "CAPEC_ID": "650"
+    },
+    {
+        "Technique_ID": "1111",
+        "CAPEC_ID": "651"
+    },
+    {
+        "Technique_ID": "1558",
+        "CAPEC_ID": "652"
+    },
+    {
+        "Technique_ID": "1056",
+        "CAPEC_ID": "654"
+    },
+    {
+        "Technique_ID": "1548.004",
+        "CAPEC_ID": "654"
+    },
+    {
+        "Technique_ID": "1027.001",
+        "CAPEC_ID": "655"
+    },
+    {
+        "Technique_ID": "1072",
+        "CAPEC_ID": "657"
+    },
+    {
+        "Technique_ID": "1055",
+        "CAPEC_ID": "660"
+    },
+    {
+        "Technique_ID": "1185",
+        "CAPEC_ID": "662"
+    },
+    {
+        "Technique_ID": "1211",
+        "CAPEC_ID": "665"
+    },
+    {
+        "Technique_ID": "1542.002",
+        "CAPEC_ID": "665"
+    },
+    {
+        "Technique_ID": "1556",
+        "CAPEC_ID": "665"
+    },
+    {
+        "Technique_ID": "1498.001",
+        "CAPEC_ID": "666"
+    },
+    {
+        "Technique_ID": "1499.001",
+        "CAPEC_ID": "666"
+    },
+    {
+        "Technique_ID": "1565.002",
+        "CAPEC_ID": "668"
+    },
+    {
+        "Technique_ID": "1195.002",
+        "CAPEC_ID": "669"
+    },
+    {
+        "Technique_ID": "1127",
+        "CAPEC_ID": "670"
+    },
+    {
+        "Technique_ID": "1195.001",
+        "CAPEC_ID": "670"
+    },
+    {
+        "Technique_ID": "1195.003",
+        "CAPEC_ID": "671"
+    },
+    {
+        "Technique_ID": "1195.003",
+        "CAPEC_ID": "672"
+    },
+    {
+        "Technique_ID": "1195.002",
+        "CAPEC_ID": "673"
+    },
+    {
+        "Technique_ID": "1195.003",
+        "CAPEC_ID": "674"
+    },
+    {
+        "Technique_ID": "1052",
+        "CAPEC_ID": "675"
+    },
+    {
+        "Technique_ID": "1195.003",
+        "CAPEC_ID": "677"
+    },
+    {
+        "Technique_ID": "1195.002",
+        "CAPEC_ID": "678"
+    },
+    {
+        "Technique_ID": "1553.002",
+        "CAPEC_ID": "68"
+    },
+    {
+        "Technique_ID": "1195.001",
+        "CAPEC_ID": "691"
+    },
+    {
+        "Technique_ID": "1195.002",
+        "CAPEC_ID": "691"
+    },
+    {
+        "Technique_ID": "1614",
+        "CAPEC_ID": "694"
+    },
+    {
+        "Technique_ID": "1195.001",
+        "CAPEC_ID": "695"
+    },
+    {
+        "Technique_ID": "1557.003",
+        "CAPEC_ID": "697"
+    },
+    {
+        "Technique_ID": "1176",
+        "CAPEC_ID": "698"
+    },
+    {
+        "Technique_ID": "1505.004",
+        "CAPEC_ID": "698"
+    },
+    {
+        "Technique_ID": "1078.001",
+        "CAPEC_ID": "70"
+    },
+    {
+        "Technique_ID": "1599",
+        "CAPEC_ID": "700"
+    },
+    {
+        "Technique_ID": "1557",
+        "CAPEC_ID": "94"
+    },
+    {
+        "Technique_ID": "1566",
+        "CAPEC_ID": "98"
+    },
+    {
+        "Technique_ID": "1598",
+        "CAPEC_ID": "98"
+    }
+]

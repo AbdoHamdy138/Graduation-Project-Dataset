@@ -1,0 +1,4858 @@
+[
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "276"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "434"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "732"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "1191"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "1193"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "1220"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "1297"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "1311"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "1314"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "1315"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "1318"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "1320"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "1321"
+    },
+    {
+        "CAPEC_ID": "1",
+        "CWE_ID": "1327"
+    },
+    {
+        "CAPEC_ID": "10",
+        "CWE_ID": "120"
+    },
+    {
+        "CAPEC_ID": "10",
+        "CWE_ID": "302"
+    },
+    {
+        "CAPEC_ID": "10",
+        "CWE_ID": "118"
+    },
+    {
+        "CAPEC_ID": "10",
+        "CWE_ID": "119"
+    },
+    {
+        "CAPEC_ID": "10",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "10",
+        "CWE_ID": "99"
+    },
+    {
+        "CAPEC_ID": "10",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "10",
+        "CWE_ID": "680"
+    },
+    {
+        "CAPEC_ID": "10",
+        "CWE_ID": "733"
+    },
+    {
+        "CAPEC_ID": "10",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "100",
+        "CWE_ID": "120"
+    },
+    {
+        "CAPEC_ID": "100",
+        "CWE_ID": "119"
+    },
+    {
+        "CAPEC_ID": "100",
+        "CWE_ID": "131"
+    },
+    {
+        "CAPEC_ID": "100",
+        "CWE_ID": "129"
+    },
+    {
+        "CAPEC_ID": "100",
+        "CWE_ID": "805"
+    },
+    {
+        "CAPEC_ID": "100",
+        "CWE_ID": "680"
+    },
+    {
+        "CAPEC_ID": "101",
+        "CWE_ID": "97"
+    },
+    {
+        "CAPEC_ID": "101",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "101",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "102",
+        "CWE_ID": "294"
+    },
+    {
+        "CAPEC_ID": "102",
+        "CWE_ID": "522"
+    },
+    {
+        "CAPEC_ID": "102",
+        "CWE_ID": "523"
+    },
+    {
+        "CAPEC_ID": "102",
+        "CWE_ID": "319"
+    },
+    {
+        "CAPEC_ID": "102",
+        "CWE_ID": "614"
+    },
+    {
+        "CAPEC_ID": "103",
+        "CWE_ID": "1021"
+    },
+    {
+        "CAPEC_ID": "104",
+        "CWE_ID": "250"
+    },
+    {
+        "CAPEC_ID": "104",
+        "CWE_ID": "638"
+    },
+    {
+        "CAPEC_ID": "104",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "104",
+        "CWE_ID": "116"
+    },
+    {
+        "CAPEC_ID": "104",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "105",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "105",
+        "CWE_ID": "113"
+    },
+    {
+        "CAPEC_ID": "105",
+        "CWE_ID": "138"
+    },
+    {
+        "CAPEC_ID": "105",
+        "CWE_ID": "436"
+    },
+    {
+        "CAPEC_ID": "107",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "107",
+        "CWE_ID": "648"
+    },
+    {
+        "CAPEC_ID": "108",
+        "CWE_ID": "89"
+    },
+    {
+        "CAPEC_ID": "108",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "108",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "108",
+        "CWE_ID": "78"
+    },
+    {
+        "CAPEC_ID": "108",
+        "CWE_ID": "114"
+    },
+    {
+        "CAPEC_ID": "109",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "109",
+        "CWE_ID": "89"
+    },
+    {
+        "CAPEC_ID": "109",
+        "CWE_ID": "564"
+    },
+    {
+        "CAPEC_ID": "11",
+        "CWE_ID": "430"
+    },
+    {
+        "CAPEC_ID": "110",
+        "CWE_ID": "89"
+    },
+    {
+        "CAPEC_ID": "110",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "111",
+        "CWE_ID": "345"
+    },
+    {
+        "CAPEC_ID": "111",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "111",
+        "CWE_ID": "352"
+    },
+    {
+        "CAPEC_ID": "112",
+        "CWE_ID": "330"
+    },
+    {
+        "CAPEC_ID": "112",
+        "CWE_ID": "326"
+    },
+    {
+        "CAPEC_ID": "112",
+        "CWE_ID": "521"
+    },
+    {
+        "CAPEC_ID": "113",
+        "CWE_ID": "1192"
+    },
+    {
+        "CAPEC_ID": "114",
+        "CWE_ID": "287"
+    },
+    {
+        "CAPEC_ID": "114",
+        "CWE_ID": "1244"
+    },
+    {
+        "CAPEC_ID": "115",
+        "CWE_ID": "287"
+    },
+    {
+        "CAPEC_ID": "116",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "116",
+        "CWE_ID": "1243"
+    },
+    {
+        "CAPEC_ID": "117",
+        "CWE_ID": "319"
+    },
+    {
+        "CAPEC_ID": "12",
+        "CWE_ID": "201"
+    },
+    {
+        "CAPEC_ID": "12",
+        "CWE_ID": "306"
+    },
+    {
+        "CAPEC_ID": "120",
+        "CWE_ID": "173"
+    },
+    {
+        "CAPEC_ID": "120",
+        "CWE_ID": "172"
+    },
+    {
+        "CAPEC_ID": "120",
+        "CWE_ID": "177"
+    },
+    {
+        "CAPEC_ID": "120",
+        "CWE_ID": "181"
+    },
+    {
+        "CAPEC_ID": "120",
+        "CWE_ID": "183"
+    },
+    {
+        "CAPEC_ID": "120",
+        "CWE_ID": "184"
+    },
+    {
+        "CAPEC_ID": "120",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "120",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "120",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "120",
+        "CWE_ID": "692"
+    },
+    {
+        "CAPEC_ID": "121",
+        "CWE_ID": "489"
+    },
+    {
+        "CAPEC_ID": "121",
+        "CWE_ID": "1209"
+    },
+    {
+        "CAPEC_ID": "121",
+        "CWE_ID": "1259"
+    },
+    {
+        "CAPEC_ID": "121",
+        "CWE_ID": "1267"
+    },
+    {
+        "CAPEC_ID": "121",
+        "CWE_ID": "1270"
+    },
+    {
+        "CAPEC_ID": "121",
+        "CWE_ID": "1294"
+    },
+    {
+        "CAPEC_ID": "121",
+        "CWE_ID": "1295"
+    },
+    {
+        "CAPEC_ID": "121",
+        "CWE_ID": "1296"
+    },
+    {
+        "CAPEC_ID": "121",
+        "CWE_ID": "1302"
+    },
+    {
+        "CAPEC_ID": "121",
+        "CWE_ID": "1313"
+    },
+    {
+        "CAPEC_ID": "122",
+        "CWE_ID": "269"
+    },
+    {
+        "CAPEC_ID": "122",
+        "CWE_ID": "732"
+    },
+    {
+        "CAPEC_ID": "122",
+        "CWE_ID": "1317"
+    },
+    {
+        "CAPEC_ID": "123",
+        "CWE_ID": "119"
+    },
+    {
+        "CAPEC_ID": "124",
+        "CWE_ID": "1189"
+    },
+    {
+        "CAPEC_ID": "124",
+        "CWE_ID": "1331"
+    },
+    {
+        "CAPEC_ID": "125",
+        "CWE_ID": "404"
+    },
+    {
+        "CAPEC_ID": "125",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "126",
+        "CWE_ID": "22"
+    },
+    {
+        "CAPEC_ID": "127",
+        "CWE_ID": "424"
+    },
+    {
+        "CAPEC_ID": "127",
+        "CWE_ID": "425"
+    },
+    {
+        "CAPEC_ID": "127",
+        "CWE_ID": "288"
+    },
+    {
+        "CAPEC_ID": "127",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "127",
+        "CWE_ID": "732"
+    },
+    {
+        "CAPEC_ID": "127",
+        "CWE_ID": "276"
+    },
+    {
+        "CAPEC_ID": "127",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "128",
+        "CWE_ID": "682"
+    },
+    {
+        "CAPEC_ID": "129",
+        "CWE_ID": "682"
+    },
+    {
+        "CAPEC_ID": "129",
+        "CWE_ID": "822"
+    },
+    {
+        "CAPEC_ID": "129",
+        "CWE_ID": "823"
+    },
+    {
+        "CAPEC_ID": "13",
+        "CWE_ID": "353"
+    },
+    {
+        "CAPEC_ID": "13",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "13",
+        "CWE_ID": "302"
+    },
+    {
+        "CAPEC_ID": "13",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "13",
+        "CWE_ID": "15"
+    },
+    {
+        "CAPEC_ID": "13",
+        "CWE_ID": "73"
+    },
+    {
+        "CAPEC_ID": "13",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "13",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "130",
+        "CWE_ID": "404"
+    },
+    {
+        "CAPEC_ID": "130",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "130",
+        "CWE_ID": "1325"
+    },
+    {
+        "CAPEC_ID": "131",
+        "CWE_ID": "404"
+    },
+    {
+        "CAPEC_ID": "132",
+        "CWE_ID": "59"
+    },
+    {
+        "CAPEC_ID": "133",
+        "CWE_ID": "912"
+    },
+    {
+        "CAPEC_ID": "134",
+        "CWE_ID": "150"
+    },
+    {
+        "CAPEC_ID": "135",
+        "CWE_ID": "134"
+    },
+    {
+        "CAPEC_ID": "135",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "135",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "136",
+        "CWE_ID": "77"
+    },
+    {
+        "CAPEC_ID": "136",
+        "CWE_ID": "90"
+    },
+    {
+        "CAPEC_ID": "136",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "137",
+        "CWE_ID": "88"
+    },
+    {
+        "CAPEC_ID": "138",
+        "CWE_ID": "470"
+    },
+    {
+        "CAPEC_ID": "139",
+        "CWE_ID": "23"
+    },
+    {
+        "CAPEC_ID": "14",
+        "CWE_ID": "120"
+    },
+    {
+        "CAPEC_ID": "14",
+        "CWE_ID": "353"
+    },
+    {
+        "CAPEC_ID": "14",
+        "CWE_ID": "118"
+    },
+    {
+        "CAPEC_ID": "14",
+        "CWE_ID": "119"
+    },
+    {
+        "CAPEC_ID": "14",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "14",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "14",
+        "CWE_ID": "680"
+    },
+    {
+        "CAPEC_ID": "14",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "140",
+        "CWE_ID": "372"
+    },
+    {
+        "CAPEC_ID": "141",
+        "CWE_ID": "348"
+    },
+    {
+        "CAPEC_ID": "141",
+        "CWE_ID": "345"
+    },
+    {
+        "CAPEC_ID": "141",
+        "CWE_ID": "349"
+    },
+    {
+        "CAPEC_ID": "141",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "142",
+        "CWE_ID": "348"
+    },
+    {
+        "CAPEC_ID": "142",
+        "CWE_ID": "345"
+    },
+    {
+        "CAPEC_ID": "142",
+        "CWE_ID": "349"
+    },
+    {
+        "CAPEC_ID": "142",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "142",
+        "CWE_ID": "350"
+    },
+    {
+        "CAPEC_ID": "143",
+        "CWE_ID": "425"
+    },
+    {
+        "CAPEC_ID": "144",
+        "CWE_ID": "425"
+    },
+    {
+        "CAPEC_ID": "145",
+        "CWE_ID": "354"
+    },
+    {
+        "CAPEC_ID": "146",
+        "CWE_ID": "15"
+    },
+    {
+        "CAPEC_ID": "146",
+        "CWE_ID": "472"
+    },
+    {
+        "CAPEC_ID": "147",
+        "CWE_ID": "400"
+    },
+    {
+        "CAPEC_ID": "147",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "148",
+        "CWE_ID": "345"
+    },
+    {
+        "CAPEC_ID": "149",
+        "CWE_ID": "377"
+    },
+    {
+        "CAPEC_ID": "15",
+        "CWE_ID": "146"
+    },
+    {
+        "CAPEC_ID": "15",
+        "CWE_ID": "77"
+    },
+    {
+        "CAPEC_ID": "15",
+        "CWE_ID": "184"
+    },
+    {
+        "CAPEC_ID": "15",
+        "CWE_ID": "78"
+    },
+    {
+        "CAPEC_ID": "15",
+        "CWE_ID": "185"
+    },
+    {
+        "CAPEC_ID": "15",
+        "CWE_ID": "93"
+    },
+    {
+        "CAPEC_ID": "15",
+        "CWE_ID": "140"
+    },
+    {
+        "CAPEC_ID": "15",
+        "CWE_ID": "157"
+    },
+    {
+        "CAPEC_ID": "15",
+        "CWE_ID": "138"
+    },
+    {
+        "CAPEC_ID": "15",
+        "CWE_ID": "154"
+    },
+    {
+        "CAPEC_ID": "15",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "150",
+        "CWE_ID": "552"
+    },
+    {
+        "CAPEC_ID": "150",
+        "CWE_ID": "1239"
+    },
+    {
+        "CAPEC_ID": "150",
+        "CWE_ID": "1258"
+    },
+    {
+        "CAPEC_ID": "150",
+        "CWE_ID": "1266"
+    },
+    {
+        "CAPEC_ID": "150",
+        "CWE_ID": "1272"
+    },
+    {
+        "CAPEC_ID": "150",
+        "CWE_ID": "1323"
+    },
+    {
+        "CAPEC_ID": "150",
+        "CWE_ID": "1330"
+    },
+    {
+        "CAPEC_ID": "151",
+        "CWE_ID": "287"
+    },
+    {
+        "CAPEC_ID": "153",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "154",
+        "CWE_ID": "451"
+    },
+    {
+        "CAPEC_ID": "155",
+        "CWE_ID": "377"
+    },
+    {
+        "CAPEC_ID": "157",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "158",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "159",
+        "CWE_ID": "706"
+    },
+    {
+        "CAPEC_ID": "16",
+        "CWE_ID": "521"
+    },
+    {
+        "CAPEC_ID": "16",
+        "CWE_ID": "262"
+    },
+    {
+        "CAPEC_ID": "16",
+        "CWE_ID": "263"
+    },
+    {
+        "CAPEC_ID": "16",
+        "CWE_ID": "654"
+    },
+    {
+        "CAPEC_ID": "16",
+        "CWE_ID": "307"
+    },
+    {
+        "CAPEC_ID": "16",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "16",
+        "CWE_ID": "309"
+    },
+    {
+        "CAPEC_ID": "160",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "161",
+        "CWE_ID": "923"
+    },
+    {
+        "CAPEC_ID": "162",
+        "CWE_ID": "602"
+    },
+    {
+        "CAPEC_ID": "163",
+        "CWE_ID": "451"
+    },
+    {
+        "CAPEC_ID": "164",
+        "CWE_ID": "451"
+    },
+    {
+        "CAPEC_ID": "166",
+        "CWE_ID": "306"
+    },
+    {
+        "CAPEC_ID": "166",
+        "CWE_ID": "1221"
+    },
+    {
+        "CAPEC_ID": "166",
+        "CWE_ID": "1232"
+    },
+    {
+        "CAPEC_ID": "167",
+        "CWE_ID": "1323"
+    },
+    {
+        "CAPEC_ID": "168",
+        "CWE_ID": "212"
+    },
+    {
+        "CAPEC_ID": "168",
+        "CWE_ID": "69"
+    },
+    {
+        "CAPEC_ID": "169",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "17",
+        "CWE_ID": "732"
+    },
+    {
+        "CAPEC_ID": "17",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "17",
+        "CWE_ID": "272"
+    },
+    {
+        "CAPEC_ID": "17",
+        "CWE_ID": "59"
+    },
+    {
+        "CAPEC_ID": "17",
+        "CWE_ID": "282"
+    },
+    {
+        "CAPEC_ID": "17",
+        "CWE_ID": "270"
+    },
+    {
+        "CAPEC_ID": "17",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "170",
+        "CWE_ID": "497"
+    },
+    {
+        "CAPEC_ID": "173",
+        "CWE_ID": "451"
+    },
+    {
+        "CAPEC_ID": "174",
+        "CWE_ID": "88"
+    },
+    {
+        "CAPEC_ID": "175",
+        "CWE_ID": "829"
+    },
+    {
+        "CAPEC_ID": "176",
+        "CWE_ID": "15"
+    },
+    {
+        "CAPEC_ID": "176",
+        "CWE_ID": "1233"
+    },
+    {
+        "CAPEC_ID": "176",
+        "CWE_ID": "1234"
+    },
+    {
+        "CAPEC_ID": "176",
+        "CWE_ID": "1304"
+    },
+    {
+        "CAPEC_ID": "176",
+        "CWE_ID": "1328"
+    },
+    {
+        "CAPEC_ID": "177",
+        "CWE_ID": "706"
+    },
+    {
+        "CAPEC_ID": "178",
+        "CWE_ID": "601"
+    },
+    {
+        "CAPEC_ID": "18",
+        "CWE_ID": "80"
+    },
+    {
+        "CAPEC_ID": "180",
+        "CWE_ID": "732"
+    },
+    {
+        "CAPEC_ID": "180",
+        "CWE_ID": "1190"
+    },
+    {
+        "CAPEC_ID": "180",
+        "CWE_ID": "1191"
+    },
+    {
+        "CAPEC_ID": "180",
+        "CWE_ID": "1193"
+    },
+    {
+        "CAPEC_ID": "180",
+        "CWE_ID": "1220"
+    },
+    {
+        "CAPEC_ID": "180",
+        "CWE_ID": "1268"
+    },
+    {
+        "CAPEC_ID": "180",
+        "CWE_ID": "1280"
+    },
+    {
+        "CAPEC_ID": "180",
+        "CWE_ID": "1297"
+    },
+    {
+        "CAPEC_ID": "180",
+        "CWE_ID": "1311"
+    },
+    {
+        "CAPEC_ID": "180",
+        "CWE_ID": "1315"
+    },
+    {
+        "CAPEC_ID": "180",
+        "CWE_ID": "1318"
+    },
+    {
+        "CAPEC_ID": "180",
+        "CWE_ID": "1320"
+    },
+    {
+        "CAPEC_ID": "180",
+        "CWE_ID": "1321"
+    },
+    {
+        "CAPEC_ID": "181",
+        "CWE_ID": "1021"
+    },
+    {
+        "CAPEC_ID": "182",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "182",
+        "CWE_ID": "184"
+    },
+    {
+        "CAPEC_ID": "182",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "183",
+        "CWE_ID": "77"
+    },
+    {
+        "CAPEC_ID": "184",
+        "CWE_ID": "494"
+    },
+    {
+        "CAPEC_ID": "185",
+        "CWE_ID": "494"
+    },
+    {
+        "CAPEC_ID": "186",
+        "CWE_ID": "494"
+    },
+    {
+        "CAPEC_ID": "187",
+        "CWE_ID": "494"
+    },
+    {
+        "CAPEC_ID": "188",
+        "CWE_ID": "1278"
+    },
+    {
+        "CAPEC_ID": "189",
+        "CWE_ID": "203"
+    },
+    {
+        "CAPEC_ID": "189",
+        "CWE_ID": "1255"
+    },
+    {
+        "CAPEC_ID": "189",
+        "CWE_ID": "1300"
+    },
+    {
+        "CAPEC_ID": "19",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "190",
+        "CWE_ID": "912"
+    },
+    {
+        "CAPEC_ID": "191",
+        "CWE_ID": "798"
+    },
+    {
+        "CAPEC_ID": "192",
+        "CWE_ID": "326"
+    },
+    {
+        "CAPEC_ID": "193",
+        "CWE_ID": "98"
+    },
+    {
+        "CAPEC_ID": "193",
+        "CWE_ID": "80"
+    },
+    {
+        "CAPEC_ID": "194",
+        "CWE_ID": "287"
+    },
+    {
+        "CAPEC_ID": "196",
+        "CWE_ID": "384"
+    },
+    {
+        "CAPEC_ID": "196",
+        "CWE_ID": "664"
+    },
+    {
+        "CAPEC_ID": "197",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "197",
+        "CWE_ID": "776"
+    },
+    {
+        "CAPEC_ID": "198",
+        "CWE_ID": "81"
+    },
+    {
+        "CAPEC_ID": "199",
+        "CWE_ID": "87"
+    },
+    {
+        "CAPEC_ID": "2",
+        "CWE_ID": "645"
+    },
+    {
+        "CAPEC_ID": "20",
+        "CWE_ID": "326"
+    },
+    {
+        "CAPEC_ID": "20",
+        "CWE_ID": "327"
+    },
+    {
+        "CAPEC_ID": "20",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "20",
+        "CWE_ID": "1204"
+    },
+    {
+        "CAPEC_ID": "201",
+        "CWE_ID": "829"
+    },
+    {
+        "CAPEC_ID": "202",
+        "CWE_ID": "602"
+    },
+    {
+        "CAPEC_ID": "203",
+        "CWE_ID": "15"
+    },
+    {
+        "CAPEC_ID": "204",
+        "CWE_ID": "524"
+    },
+    {
+        "CAPEC_ID": "204",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "204",
+        "CWE_ID": "1239"
+    },
+    {
+        "CAPEC_ID": "204",
+        "CWE_ID": "1258"
+    },
+    {
+        "CAPEC_ID": "206",
+        "CWE_ID": "732"
+    },
+    {
+        "CAPEC_ID": "207",
+        "CWE_ID": "602"
+    },
+    {
+        "CAPEC_ID": "208",
+        "CWE_ID": "602"
+    },
+    {
+        "CAPEC_ID": "209",
+        "CWE_ID": "79"
+    },
+    {
+        "CAPEC_ID": "209",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "209",
+        "CWE_ID": "646"
+    },
+    {
+        "CAPEC_ID": "21",
+        "CWE_ID": "290"
+    },
+    {
+        "CAPEC_ID": "21",
+        "CWE_ID": "302"
+    },
+    {
+        "CAPEC_ID": "21",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "21",
+        "CWE_ID": "539"
+    },
+    {
+        "CAPEC_ID": "21",
+        "CWE_ID": "6"
+    },
+    {
+        "CAPEC_ID": "21",
+        "CWE_ID": "384"
+    },
+    {
+        "CAPEC_ID": "21",
+        "CWE_ID": "664"
+    },
+    {
+        "CAPEC_ID": "21",
+        "CWE_ID": "602"
+    },
+    {
+        "CAPEC_ID": "21",
+        "CWE_ID": "642"
+    },
+    {
+        "CAPEC_ID": "212",
+        "CWE_ID": "1242"
+    },
+    {
+        "CAPEC_ID": "212",
+        "CWE_ID": "1246"
+    },
+    {
+        "CAPEC_ID": "212",
+        "CWE_ID": "1281"
+    },
+    {
+        "CAPEC_ID": "215",
+        "CWE_ID": "209"
+    },
+    {
+        "CAPEC_ID": "215",
+        "CWE_ID": "532"
+    },
+    {
+        "CAPEC_ID": "216",
+        "CWE_ID": "306"
+    },
+    {
+        "CAPEC_ID": "217",
+        "CWE_ID": "201"
+    },
+    {
+        "CAPEC_ID": "218",
+        "CWE_ID": "345"
+    },
+    {
+        "CAPEC_ID": "219",
+        "CWE_ID": "441"
+    },
+    {
+        "CAPEC_ID": "219",
+        "CWE_ID": "610"
+    },
+    {
+        "CAPEC_ID": "22",
+        "CWE_ID": "290"
+    },
+    {
+        "CAPEC_ID": "22",
+        "CWE_ID": "287"
+    },
+    {
+        "CAPEC_ID": "22",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "22",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "22",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "220",
+        "CWE_ID": "757"
+    },
+    {
+        "CAPEC_ID": "221",
+        "CWE_ID": "611"
+    },
+    {
+        "CAPEC_ID": "222",
+        "CWE_ID": "1021"
+    },
+    {
+        "CAPEC_ID": "224",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "226",
+        "CWE_ID": "565"
+    },
+    {
+        "CAPEC_ID": "226",
+        "CWE_ID": "472"
+    },
+    {
+        "CAPEC_ID": "227",
+        "CWE_ID": "400"
+    },
+    {
+        "CAPEC_ID": "228",
+        "CWE_ID": "829"
+    },
+    {
+        "CAPEC_ID": "229",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "23",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "230",
+        "CWE_ID": "112"
+    },
+    {
+        "CAPEC_ID": "230",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "230",
+        "CWE_ID": "674"
+    },
+    {
+        "CAPEC_ID": "230",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "231",
+        "CWE_ID": "112"
+    },
+    {
+        "CAPEC_ID": "231",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "231",
+        "CWE_ID": "674"
+    },
+    {
+        "CAPEC_ID": "231",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "233",
+        "CWE_ID": "269"
+    },
+    {
+        "CAPEC_ID": "233",
+        "CWE_ID": "1264"
+    },
+    {
+        "CAPEC_ID": "233",
+        "CWE_ID": "1311"
+    },
+    {
+        "CAPEC_ID": "234",
+        "CWE_ID": "732"
+    },
+    {
+        "CAPEC_ID": "234",
+        "CWE_ID": "648"
+    },
+    {
+        "CAPEC_ID": "237",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "24",
+        "CWE_ID": "120"
+    },
+    {
+        "CAPEC_ID": "24",
+        "CWE_ID": "119"
+    },
+    {
+        "CAPEC_ID": "24",
+        "CWE_ID": "118"
+    },
+    {
+        "CAPEC_ID": "24",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "24",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "24",
+        "CWE_ID": "680"
+    },
+    {
+        "CAPEC_ID": "24",
+        "CWE_ID": "733"
+    },
+    {
+        "CAPEC_ID": "24",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "240",
+        "CWE_ID": "99"
+    },
+    {
+        "CAPEC_ID": "242",
+        "CWE_ID": "94"
+    },
+    {
+        "CAPEC_ID": "243",
+        "CWE_ID": "83"
+    },
+    {
+        "CAPEC_ID": "244",
+        "CWE_ID": "83"
+    },
+    {
+        "CAPEC_ID": "245",
+        "CWE_ID": "85"
+    },
+    {
+        "CAPEC_ID": "247",
+        "CWE_ID": "86"
+    },
+    {
+        "CAPEC_ID": "248",
+        "CWE_ID": "77"
+    },
+    {
+        "CAPEC_ID": "25",
+        "CWE_ID": "412"
+    },
+    {
+        "CAPEC_ID": "25",
+        "CWE_ID": "567"
+    },
+    {
+        "CAPEC_ID": "25",
+        "CWE_ID": "662"
+    },
+    {
+        "CAPEC_ID": "25",
+        "CWE_ID": "667"
+    },
+    {
+        "CAPEC_ID": "25",
+        "CWE_ID": "833"
+    },
+    {
+        "CAPEC_ID": "25",
+        "CWE_ID": "1322"
+    },
+    {
+        "CAPEC_ID": "250",
+        "CWE_ID": "91"
+    },
+    {
+        "CAPEC_ID": "250",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "250",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "250",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "251",
+        "CWE_ID": "829"
+    },
+    {
+        "CAPEC_ID": "252",
+        "CWE_ID": "829"
+    },
+    {
+        "CAPEC_ID": "253",
+        "CWE_ID": "829"
+    },
+    {
+        "CAPEC_ID": "256",
+        "CWE_ID": "805"
+    },
+    {
+        "CAPEC_ID": "26",
+        "CWE_ID": "368"
+    },
+    {
+        "CAPEC_ID": "26",
+        "CWE_ID": "363"
+    },
+    {
+        "CAPEC_ID": "26",
+        "CWE_ID": "366"
+    },
+    {
+        "CAPEC_ID": "26",
+        "CWE_ID": "370"
+    },
+    {
+        "CAPEC_ID": "26",
+        "CWE_ID": "362"
+    },
+    {
+        "CAPEC_ID": "26",
+        "CWE_ID": "662"
+    },
+    {
+        "CAPEC_ID": "26",
+        "CWE_ID": "689"
+    },
+    {
+        "CAPEC_ID": "26",
+        "CWE_ID": "667"
+    },
+    {
+        "CAPEC_ID": "26",
+        "CWE_ID": "665"
+    },
+    {
+        "CAPEC_ID": "26",
+        "CWE_ID": "1223"
+    },
+    {
+        "CAPEC_ID": "26",
+        "CWE_ID": "1254"
+    },
+    {
+        "CAPEC_ID": "26",
+        "CWE_ID": "1298"
+    },
+    {
+        "CAPEC_ID": "261",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "263",
+        "CWE_ID": "829"
+    },
+    {
+        "CAPEC_ID": "267",
+        "CWE_ID": "173"
+    },
+    {
+        "CAPEC_ID": "267",
+        "CWE_ID": "172"
+    },
+    {
+        "CAPEC_ID": "267",
+        "CWE_ID": "180"
+    },
+    {
+        "CAPEC_ID": "267",
+        "CWE_ID": "181"
+    },
+    {
+        "CAPEC_ID": "267",
+        "CWE_ID": "73"
+    },
+    {
+        "CAPEC_ID": "267",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "267",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "267",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "267",
+        "CWE_ID": "692"
+    },
+    {
+        "CAPEC_ID": "268",
+        "CWE_ID": "117"
+    },
+    {
+        "CAPEC_ID": "27",
+        "CWE_ID": "367"
+    },
+    {
+        "CAPEC_ID": "27",
+        "CWE_ID": "61"
+    },
+    {
+        "CAPEC_ID": "27",
+        "CWE_ID": "662"
+    },
+    {
+        "CAPEC_ID": "27",
+        "CWE_ID": "689"
+    },
+    {
+        "CAPEC_ID": "27",
+        "CWE_ID": "667"
+    },
+    {
+        "CAPEC_ID": "270",
+        "CWE_ID": "15"
+    },
+    {
+        "CAPEC_ID": "271",
+        "CWE_ID": "15"
+    },
+    {
+        "CAPEC_ID": "273",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "273",
+        "CWE_ID": "436"
+    },
+    {
+        "CAPEC_ID": "273",
+        "CWE_ID": "444"
+    },
+    {
+        "CAPEC_ID": "274",
+        "CWE_ID": "302"
+    },
+    {
+        "CAPEC_ID": "274",
+        "CWE_ID": "654"
+    },
+    {
+        "CAPEC_ID": "275",
+        "CWE_ID": "350"
+    },
+    {
+        "CAPEC_ID": "276",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "277",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "278",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "279",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "28",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "28",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "285",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "287",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "29",
+        "CWE_ID": "367"
+    },
+    {
+        "CAPEC_ID": "29",
+        "CWE_ID": "368"
+    },
+    {
+        "CAPEC_ID": "29",
+        "CWE_ID": "366"
+    },
+    {
+        "CAPEC_ID": "29",
+        "CWE_ID": "370"
+    },
+    {
+        "CAPEC_ID": "29",
+        "CWE_ID": "362"
+    },
+    {
+        "CAPEC_ID": "29",
+        "CWE_ID": "662"
+    },
+    {
+        "CAPEC_ID": "29",
+        "CWE_ID": "691"
+    },
+    {
+        "CAPEC_ID": "29",
+        "CWE_ID": "663"
+    },
+    {
+        "CAPEC_ID": "29",
+        "CWE_ID": "665"
+    },
+    {
+        "CAPEC_ID": "290",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "291",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "292",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "293",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "294",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "295",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "296",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "297",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "298",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "299",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "3",
+        "CWE_ID": "173"
+    },
+    {
+        "CAPEC_ID": "3",
+        "CWE_ID": "41"
+    },
+    {
+        "CAPEC_ID": "3",
+        "CWE_ID": "172"
+    },
+    {
+        "CAPEC_ID": "3",
+        "CWE_ID": "179"
+    },
+    {
+        "CAPEC_ID": "3",
+        "CWE_ID": "180"
+    },
+    {
+        "CAPEC_ID": "3",
+        "CWE_ID": "181"
+    },
+    {
+        "CAPEC_ID": "3",
+        "CWE_ID": "183"
+    },
+    {
+        "CAPEC_ID": "3",
+        "CWE_ID": "184"
+    },
+    {
+        "CAPEC_ID": "3",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "3",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "3",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "3",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "30",
+        "CWE_ID": "270"
+    },
+    {
+        "CAPEC_ID": "300",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "301",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "302",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "303",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "304",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "305",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "306",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "307",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "308",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "309",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "31",
+        "CWE_ID": "565"
+    },
+    {
+        "CAPEC_ID": "31",
+        "CWE_ID": "302"
+    },
+    {
+        "CAPEC_ID": "31",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "31",
+        "CWE_ID": "113"
+    },
+    {
+        "CAPEC_ID": "31",
+        "CWE_ID": "539"
+    },
+    {
+        "CAPEC_ID": "31",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "31",
+        "CWE_ID": "315"
+    },
+    {
+        "CAPEC_ID": "31",
+        "CWE_ID": "384"
+    },
+    {
+        "CAPEC_ID": "31",
+        "CWE_ID": "472"
+    },
+    {
+        "CAPEC_ID": "31",
+        "CWE_ID": "602"
+    },
+    {
+        "CAPEC_ID": "31",
+        "CWE_ID": "642"
+    },
+    {
+        "CAPEC_ID": "310",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "312",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "313",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "317",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "318",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "319",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "32",
+        "CWE_ID": "80"
+    },
+    {
+        "CAPEC_ID": "320",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "321",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "322",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "323",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "324",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "325",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "326",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "327",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "328",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "329",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "33",
+        "CWE_ID": "444"
+    },
+    {
+        "CAPEC_ID": "330",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "331",
+        "CWE_ID": "204"
+    },
+    {
+        "CAPEC_ID": "332",
+        "CWE_ID": "204"
+    },
+    {
+        "CAPEC_ID": "34",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "34",
+        "CWE_ID": "113"
+    },
+    {
+        "CAPEC_ID": "34",
+        "CWE_ID": "138"
+    },
+    {
+        "CAPEC_ID": "34",
+        "CWE_ID": "436"
+    },
+    {
+        "CAPEC_ID": "35",
+        "CWE_ID": "94"
+    },
+    {
+        "CAPEC_ID": "35",
+        "CWE_ID": "96"
+    },
+    {
+        "CAPEC_ID": "35",
+        "CWE_ID": "95"
+    },
+    {
+        "CAPEC_ID": "35",
+        "CWE_ID": "97"
+    },
+    {
+        "CAPEC_ID": "35",
+        "CWE_ID": "272"
+    },
+    {
+        "CAPEC_ID": "35",
+        "CWE_ID": "59"
+    },
+    {
+        "CAPEC_ID": "35",
+        "CWE_ID": "282"
+    },
+    {
+        "CAPEC_ID": "35",
+        "CWE_ID": "270"
+    },
+    {
+        "CAPEC_ID": "36",
+        "CWE_ID": "306"
+    },
+    {
+        "CAPEC_ID": "36",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "36",
+        "CWE_ID": "695"
+    },
+    {
+        "CAPEC_ID": "36",
+        "CWE_ID": "1242"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "226"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "525"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "312"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "314"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "315"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "318"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "1239"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "1258"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "1266"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "1272"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "1278"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "1301"
+    },
+    {
+        "CAPEC_ID": "37",
+        "CWE_ID": "1330"
+    },
+    {
+        "CAPEC_ID": "38",
+        "CWE_ID": "426"
+    },
+    {
+        "CAPEC_ID": "38",
+        "CWE_ID": "427"
+    },
+    {
+        "CAPEC_ID": "383",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "383",
+        "CWE_ID": "319"
+    },
+    {
+        "CAPEC_ID": "383",
+        "CWE_ID": "419"
+    },
+    {
+        "CAPEC_ID": "383",
+        "CWE_ID": "602"
+    },
+    {
+        "CAPEC_ID": "384",
+        "CWE_ID": "471"
+    },
+    {
+        "CAPEC_ID": "384",
+        "CWE_ID": "345"
+    },
+    {
+        "CAPEC_ID": "384",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "384",
+        "CWE_ID": "602"
+    },
+    {
+        "CAPEC_ID": "384",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "385",
+        "CWE_ID": "471"
+    },
+    {
+        "CAPEC_ID": "385",
+        "CWE_ID": "345"
+    },
+    {
+        "CAPEC_ID": "385",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "385",
+        "CWE_ID": "602"
+    },
+    {
+        "CAPEC_ID": "385",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "386",
+        "CWE_ID": "471"
+    },
+    {
+        "CAPEC_ID": "386",
+        "CWE_ID": "345"
+    },
+    {
+        "CAPEC_ID": "386",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "386",
+        "CWE_ID": "602"
+    },
+    {
+        "CAPEC_ID": "386",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "387",
+        "CWE_ID": "471"
+    },
+    {
+        "CAPEC_ID": "387",
+        "CWE_ID": "345"
+    },
+    {
+        "CAPEC_ID": "387",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "387",
+        "CWE_ID": "602"
+    },
+    {
+        "CAPEC_ID": "387",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "388",
+        "CWE_ID": "471"
+    },
+    {
+        "CAPEC_ID": "388",
+        "CWE_ID": "345"
+    },
+    {
+        "CAPEC_ID": "388",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "388",
+        "CWE_ID": "602"
+    },
+    {
+        "CAPEC_ID": "388",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "389",
+        "CWE_ID": "353"
+    },
+    {
+        "CAPEC_ID": "39",
+        "CWE_ID": "353"
+    },
+    {
+        "CAPEC_ID": "39",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "39",
+        "CWE_ID": "302"
+    },
+    {
+        "CAPEC_ID": "39",
+        "CWE_ID": "472"
+    },
+    {
+        "CAPEC_ID": "39",
+        "CWE_ID": "565"
+    },
+    {
+        "CAPEC_ID": "39",
+        "CWE_ID": "315"
+    },
+    {
+        "CAPEC_ID": "39",
+        "CWE_ID": "539"
+    },
+    {
+        "CAPEC_ID": "39",
+        "CWE_ID": "384"
+    },
+    {
+        "CAPEC_ID": "39",
+        "CWE_ID": "233"
+    },
+    {
+        "CAPEC_ID": "4",
+        "CWE_ID": "291"
+    },
+    {
+        "CAPEC_ID": "4",
+        "CWE_ID": "173"
+    },
+    {
+        "CAPEC_ID": "40",
+        "CWE_ID": "77"
+    },
+    {
+        "CAPEC_ID": "401",
+        "CWE_ID": "1263"
+    },
+    {
+        "CAPEC_ID": "402",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "41",
+        "CWE_ID": "150"
+    },
+    {
+        "CAPEC_ID": "41",
+        "CWE_ID": "88"
+    },
+    {
+        "CAPEC_ID": "41",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "42",
+        "CWE_ID": "120"
+    },
+    {
+        "CAPEC_ID": "42",
+        "CWE_ID": "119"
+    },
+    {
+        "CAPEC_ID": "42",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "42",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "43",
+        "CWE_ID": "179"
+    },
+    {
+        "CAPEC_ID": "43",
+        "CWE_ID": "181"
+    },
+    {
+        "CAPEC_ID": "43",
+        "CWE_ID": "184"
+    },
+    {
+        "CAPEC_ID": "43",
+        "CWE_ID": "183"
+    },
+    {
+        "CAPEC_ID": "43",
+        "CWE_ID": "77"
+    },
+    {
+        "CAPEC_ID": "43",
+        "CWE_ID": "78"
+    },
+    {
+        "CAPEC_ID": "43",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "43",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "43",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "43",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "439",
+        "CWE_ID": "1269"
+    },
+    {
+        "CAPEC_ID": "44",
+        "CWE_ID": "120"
+    },
+    {
+        "CAPEC_ID": "44",
+        "CWE_ID": "119"
+    },
+    {
+        "CAPEC_ID": "44",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "441",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "442",
+        "CWE_ID": "506"
+    },
+    {
+        "CAPEC_ID": "448",
+        "CWE_ID": "506"
+    },
+    {
+        "CAPEC_ID": "45",
+        "CWE_ID": "120"
+    },
+    {
+        "CAPEC_ID": "45",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "45",
+        "CWE_ID": "302"
+    },
+    {
+        "CAPEC_ID": "45",
+        "CWE_ID": "118"
+    },
+    {
+        "CAPEC_ID": "45",
+        "CWE_ID": "119"
+    },
+    {
+        "CAPEC_ID": "45",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "45",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "45",
+        "CWE_ID": "680"
+    },
+    {
+        "CAPEC_ID": "45",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "456",
+        "CWE_ID": "1257"
+    },
+    {
+        "CAPEC_ID": "456",
+        "CWE_ID": "1260"
+    },
+    {
+        "CAPEC_ID": "456",
+        "CWE_ID": "1274"
+    },
+    {
+        "CAPEC_ID": "456",
+        "CWE_ID": "1312"
+    },
+    {
+        "CAPEC_ID": "456",
+        "CWE_ID": "1316"
+    },
+    {
+        "CAPEC_ID": "457",
+        "CWE_ID": "1299"
+    },
+    {
+        "CAPEC_ID": "458",
+        "CWE_ID": "1282"
+    },
+    {
+        "CAPEC_ID": "459",
+        "CWE_ID": "327"
+    },
+    {
+        "CAPEC_ID": "459",
+        "CWE_ID": "295"
+    },
+    {
+        "CAPEC_ID": "459",
+        "CWE_ID": "290"
+    },
+    {
+        "CAPEC_ID": "46",
+        "CWE_ID": "120"
+    },
+    {
+        "CAPEC_ID": "46",
+        "CWE_ID": "118"
+    },
+    {
+        "CAPEC_ID": "46",
+        "CWE_ID": "119"
+    },
+    {
+        "CAPEC_ID": "46",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "46",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "46",
+        "CWE_ID": "680"
+    },
+    {
+        "CAPEC_ID": "46",
+        "CWE_ID": "733"
+    },
+    {
+        "CAPEC_ID": "46",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "460",
+        "CWE_ID": "88"
+    },
+    {
+        "CAPEC_ID": "460",
+        "CWE_ID": "147"
+    },
+    {
+        "CAPEC_ID": "460",
+        "CWE_ID": "235"
+    },
+    {
+        "CAPEC_ID": "461",
+        "CWE_ID": "328"
+    },
+    {
+        "CAPEC_ID": "461",
+        "CWE_ID": "290"
+    },
+    {
+        "CAPEC_ID": "462",
+        "CWE_ID": "385"
+    },
+    {
+        "CAPEC_ID": "462",
+        "CWE_ID": "352"
+    },
+    {
+        "CAPEC_ID": "462",
+        "CWE_ID": "208"
+    },
+    {
+        "CAPEC_ID": "463",
+        "CWE_ID": "209"
+    },
+    {
+        "CAPEC_ID": "463",
+        "CWE_ID": "514"
+    },
+    {
+        "CAPEC_ID": "463",
+        "CWE_ID": "649"
+    },
+    {
+        "CAPEC_ID": "463",
+        "CWE_ID": "347"
+    },
+    {
+        "CAPEC_ID": "463",
+        "CWE_ID": "354"
+    },
+    {
+        "CAPEC_ID": "463",
+        "CWE_ID": "696"
+    },
+    {
+        "CAPEC_ID": "464",
+        "CWE_ID": "359"
+    },
+    {
+        "CAPEC_ID": "465",
+        "CWE_ID": "441"
+    },
+    {
+        "CAPEC_ID": "466",
+        "CWE_ID": "300"
+    },
+    {
+        "CAPEC_ID": "467",
+        "CWE_ID": "352"
+    },
+    {
+        "CAPEC_ID": "467",
+        "CWE_ID": "359"
+    },
+    {
+        "CAPEC_ID": "468",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "468",
+        "CWE_ID": "149"
+    },
+    {
+        "CAPEC_ID": "468",
+        "CWE_ID": "177"
+    },
+    {
+        "CAPEC_ID": "468",
+        "CWE_ID": "838"
+    },
+    {
+        "CAPEC_ID": "469",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "469",
+        "CWE_ID": "772"
+    },
+    {
+        "CAPEC_ID": "47",
+        "CWE_ID": "120"
+    },
+    {
+        "CAPEC_ID": "47",
+        "CWE_ID": "119"
+    },
+    {
+        "CAPEC_ID": "47",
+        "CWE_ID": "118"
+    },
+    {
+        "CAPEC_ID": "47",
+        "CWE_ID": "130"
+    },
+    {
+        "CAPEC_ID": "47",
+        "CWE_ID": "131"
+    },
+    {
+        "CAPEC_ID": "47",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "47",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "47",
+        "CWE_ID": "680"
+    },
+    {
+        "CAPEC_ID": "47",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "470",
+        "CWE_ID": "250"
+    },
+    {
+        "CAPEC_ID": "470",
+        "CWE_ID": "89"
+    },
+    {
+        "CAPEC_ID": "471",
+        "CWE_ID": "427"
+    },
+    {
+        "CAPEC_ID": "472",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "473",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "473",
+        "CWE_ID": "327"
+    },
+    {
+        "CAPEC_ID": "473",
+        "CWE_ID": "290"
+    },
+    {
+        "CAPEC_ID": "474",
+        "CWE_ID": "522"
+    },
+    {
+        "CAPEC_ID": "475",
+        "CWE_ID": "347"
+    },
+    {
+        "CAPEC_ID": "475",
+        "CWE_ID": "327"
+    },
+    {
+        "CAPEC_ID": "475",
+        "CWE_ID": "295"
+    },
+    {
+        "CAPEC_ID": "476",
+        "CWE_ID": "290"
+    },
+    {
+        "CAPEC_ID": "477",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "477",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "477",
+        "CWE_ID": "319"
+    },
+    {
+        "CAPEC_ID": "478",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "479",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "48",
+        "CWE_ID": "241"
+    },
+    {
+        "CAPEC_ID": "48",
+        "CWE_ID": "706"
+    },
+    {
+        "CAPEC_ID": "480",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "481",
+        "CWE_ID": "923"
+    },
+    {
+        "CAPEC_ID": "482",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "485",
+        "CWE_ID": "330"
+    },
+    {
+        "CAPEC_ID": "486",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "487",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "488",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "489",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "49",
+        "CWE_ID": "521"
+    },
+    {
+        "CAPEC_ID": "49",
+        "CWE_ID": "262"
+    },
+    {
+        "CAPEC_ID": "49",
+        "CWE_ID": "263"
+    },
+    {
+        "CAPEC_ID": "49",
+        "CWE_ID": "257"
+    },
+    {
+        "CAPEC_ID": "49",
+        "CWE_ID": "654"
+    },
+    {
+        "CAPEC_ID": "49",
+        "CWE_ID": "307"
+    },
+    {
+        "CAPEC_ID": "49",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "49",
+        "CWE_ID": "309"
+    },
+    {
+        "CAPEC_ID": "490",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "491",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "492",
+        "CWE_ID": "400"
+    },
+    {
+        "CAPEC_ID": "492",
+        "CWE_ID": "1333"
+    },
+    {
+        "CAPEC_ID": "493",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "494",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "494",
+        "CWE_ID": "404"
+    },
+    {
+        "CAPEC_ID": "495",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "495",
+        "CWE_ID": "404"
+    },
+    {
+        "CAPEC_ID": "496",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "496",
+        "CWE_ID": "404"
+    },
+    {
+        "CAPEC_ID": "497",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "498",
+        "CWE_ID": "359"
+    },
+    {
+        "CAPEC_ID": "499",
+        "CWE_ID": "925"
+    },
+    {
+        "CAPEC_ID": "5",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "50",
+        "CWE_ID": "522"
+    },
+    {
+        "CAPEC_ID": "50",
+        "CWE_ID": "640"
+    },
+    {
+        "CAPEC_ID": "500",
+        "CWE_ID": "749"
+    },
+    {
+        "CAPEC_ID": "500",
+        "CWE_ID": "940"
+    },
+    {
+        "CAPEC_ID": "501",
+        "CWE_ID": "923"
+    },
+    {
+        "CAPEC_ID": "502",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "503",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "504",
+        "CWE_ID": "1021"
+    },
+    {
+        "CAPEC_ID": "506",
+        "CWE_ID": "1021"
+    },
+    {
+        "CAPEC_ID": "508",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "508",
+        "CWE_ID": "359"
+    },
+    {
+        "CAPEC_ID": "509",
+        "CWE_ID": "522"
+    },
+    {
+        "CAPEC_ID": "509",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "509",
+        "CWE_ID": "309"
+    },
+    {
+        "CAPEC_ID": "509",
+        "CWE_ID": "294"
+    },
+    {
+        "CAPEC_ID": "509",
+        "CWE_ID": "263"
+    },
+    {
+        "CAPEC_ID": "509",
+        "CWE_ID": "262"
+    },
+    {
+        "CAPEC_ID": "509",
+        "CWE_ID": "521"
+    },
+    {
+        "CAPEC_ID": "51",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "51",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "51",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "510",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "52",
+        "CWE_ID": "158"
+    },
+    {
+        "CAPEC_ID": "52",
+        "CWE_ID": "172"
+    },
+    {
+        "CAPEC_ID": "52",
+        "CWE_ID": "173"
+    },
+    {
+        "CAPEC_ID": "52",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "52",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "52",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "52",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "528",
+        "CWE_ID": "770"
+    },
+    {
+        "CAPEC_ID": "53",
+        "CWE_ID": "158"
+    },
+    {
+        "CAPEC_ID": "53",
+        "CWE_ID": "172"
+    },
+    {
+        "CAPEC_ID": "53",
+        "CWE_ID": "173"
+    },
+    {
+        "CAPEC_ID": "53",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "53",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "53",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "53",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "533",
+        "CWE_ID": "494"
+    },
+    {
+        "CAPEC_ID": "536",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "538",
+        "CWE_ID": "494"
+    },
+    {
+        "CAPEC_ID": "538",
+        "CWE_ID": "829"
+    },
+    {
+        "CAPEC_ID": "54",
+        "CWE_ID": "209"
+    },
+    {
+        "CAPEC_ID": "540",
+        "CWE_ID": "125"
+    },
+    {
+        "CAPEC_ID": "541",
+        "CWE_ID": "204"
+    },
+    {
+        "CAPEC_ID": "541",
+        "CWE_ID": "205"
+    },
+    {
+        "CAPEC_ID": "541",
+        "CWE_ID": "208"
+    },
+    {
+        "CAPEC_ID": "545",
+        "CWE_ID": "1239"
+    },
+    {
+        "CAPEC_ID": "545",
+        "CWE_ID": "1243"
+    },
+    {
+        "CAPEC_ID": "545",
+        "CWE_ID": "1258"
+    },
+    {
+        "CAPEC_ID": "545",
+        "CWE_ID": "1266"
+    },
+    {
+        "CAPEC_ID": "545",
+        "CWE_ID": "1272"
+    },
+    {
+        "CAPEC_ID": "545",
+        "CWE_ID": "1278"
+    },
+    {
+        "CAPEC_ID": "545",
+        "CWE_ID": "1323"
+    },
+    {
+        "CAPEC_ID": "545",
+        "CWE_ID": "1258"
+    },
+    {
+        "CAPEC_ID": "545",
+        "CWE_ID": "1330"
+    },
+    {
+        "CAPEC_ID": "546",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "546",
+        "CWE_ID": "1266"
+    },
+    {
+        "CAPEC_ID": "546",
+        "CWE_ID": "1272"
+    },
+    {
+        "CAPEC_ID": "549",
+        "CWE_ID": "829"
+    },
+    {
+        "CAPEC_ID": "55",
+        "CWE_ID": "261"
+    },
+    {
+        "CAPEC_ID": "55",
+        "CWE_ID": "521"
+    },
+    {
+        "CAPEC_ID": "55",
+        "CWE_ID": "262"
+    },
+    {
+        "CAPEC_ID": "55",
+        "CWE_ID": "263"
+    },
+    {
+        "CAPEC_ID": "55",
+        "CWE_ID": "654"
+    },
+    {
+        "CAPEC_ID": "55",
+        "CWE_ID": "916"
+    },
+    {
+        "CAPEC_ID": "55",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "55",
+        "CWE_ID": "309"
+    },
+    {
+        "CAPEC_ID": "550",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "551",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "551",
+        "CWE_ID": "522"
+    },
+    {
+        "CAPEC_ID": "552",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "554",
+        "CWE_ID": "424"
+    },
+    {
+        "CAPEC_ID": "554",
+        "CWE_ID": "1299"
+    },
+    {
+        "CAPEC_ID": "555",
+        "CWE_ID": "522"
+    },
+    {
+        "CAPEC_ID": "555",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "555",
+        "CWE_ID": "309"
+    },
+    {
+        "CAPEC_ID": "555",
+        "CWE_ID": "294"
+    },
+    {
+        "CAPEC_ID": "555",
+        "CWE_ID": "263"
+    },
+    {
+        "CAPEC_ID": "555",
+        "CWE_ID": "262"
+    },
+    {
+        "CAPEC_ID": "555",
+        "CWE_ID": "521"
+    },
+    {
+        "CAPEC_ID": "556",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "558",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "560",
+        "CWE_ID": "522"
+    },
+    {
+        "CAPEC_ID": "560",
+        "CWE_ID": "307"
+    },
+    {
+        "CAPEC_ID": "560",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "560",
+        "CWE_ID": "309"
+    },
+    {
+        "CAPEC_ID": "560",
+        "CWE_ID": "262"
+    },
+    {
+        "CAPEC_ID": "560",
+        "CWE_ID": "263"
+    },
+    {
+        "CAPEC_ID": "560",
+        "CWE_ID": "654"
+    },
+    {
+        "CAPEC_ID": "560",
+        "CWE_ID": "1273"
+    },
+    {
+        "CAPEC_ID": "561",
+        "CWE_ID": "522"
+    },
+    {
+        "CAPEC_ID": "561",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "561",
+        "CWE_ID": "309"
+    },
+    {
+        "CAPEC_ID": "561",
+        "CWE_ID": "294"
+    },
+    {
+        "CAPEC_ID": "561",
+        "CWE_ID": "263"
+    },
+    {
+        "CAPEC_ID": "561",
+        "CWE_ID": "262"
+    },
+    {
+        "CAPEC_ID": "561",
+        "CWE_ID": "521"
+    },
+    {
+        "CAPEC_ID": "562",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "563",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "564",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "565",
+        "CWE_ID": "521"
+    },
+    {
+        "CAPEC_ID": "565",
+        "CWE_ID": "262"
+    },
+    {
+        "CAPEC_ID": "565",
+        "CWE_ID": "263"
+    },
+    {
+        "CAPEC_ID": "565",
+        "CWE_ID": "654"
+    },
+    {
+        "CAPEC_ID": "565",
+        "CWE_ID": "307"
+    },
+    {
+        "CAPEC_ID": "565",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "565",
+        "CWE_ID": "309"
+    },
+    {
+        "CAPEC_ID": "57",
+        "CWE_ID": "300"
+    },
+    {
+        "CAPEC_ID": "57",
+        "CWE_ID": "287"
+    },
+    {
+        "CAPEC_ID": "57",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "573",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "574",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "575",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "576",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "577",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "578",
+        "CWE_ID": "284"
+    },
+    {
+        "CAPEC_ID": "579",
+        "CWE_ID": "15"
+    },
+    {
+        "CAPEC_ID": "58",
+        "CWE_ID": "267"
+    },
+    {
+        "CAPEC_ID": "58",
+        "CWE_ID": "269"
+    },
+    {
+        "CAPEC_ID": "580",
+        "CWE_ID": "204"
+    },
+    {
+        "CAPEC_ID": "580",
+        "CWE_ID": "205"
+    },
+    {
+        "CAPEC_ID": "580",
+        "CWE_ID": "208"
+    },
+    {
+        "CAPEC_ID": "586",
+        "CWE_ID": "502"
+    },
+    {
+        "CAPEC_ID": "587",
+        "CWE_ID": "1021"
+    },
+    {
+        "CAPEC_ID": "588",
+        "CWE_ID": "79"
+    },
+    {
+        "CAPEC_ID": "588",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "588",
+        "CWE_ID": "83"
+    },
+    {
+        "CAPEC_ID": "589",
+        "CWE_ID": "300"
+    },
+    {
+        "CAPEC_ID": "59",
+        "CWE_ID": "290"
+    },
+    {
+        "CAPEC_ID": "59",
+        "CWE_ID": "330"
+    },
+    {
+        "CAPEC_ID": "59",
+        "CWE_ID": "331"
+    },
+    {
+        "CAPEC_ID": "59",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "59",
+        "CWE_ID": "488"
+    },
+    {
+        "CAPEC_ID": "59",
+        "CWE_ID": "539"
+    },
+    {
+        "CAPEC_ID": "59",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "59",
+        "CWE_ID": "6"
+    },
+    {
+        "CAPEC_ID": "59",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "59",
+        "CWE_ID": "384"
+    },
+    {
+        "CAPEC_ID": "59",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "590",
+        "CWE_ID": "300"
+    },
+    {
+        "CAPEC_ID": "591",
+        "CWE_ID": "79"
+    },
+    {
+        "CAPEC_ID": "592",
+        "CWE_ID": "79"
+    },
+    {
+        "CAPEC_ID": "593",
+        "CWE_ID": "287"
+    },
+    {
+        "CAPEC_ID": "594",
+        "CWE_ID": "940"
+    },
+    {
+        "CAPEC_ID": "595",
+        "CWE_ID": "940"
+    },
+    {
+        "CAPEC_ID": "596",
+        "CWE_ID": "940"
+    },
+    {
+        "CAPEC_ID": "597",
+        "CWE_ID": "36"
+    },
+    {
+        "CAPEC_ID": "6",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "6",
+        "CWE_ID": "146"
+    },
+    {
+        "CAPEC_ID": "6",
+        "CWE_ID": "184"
+    },
+    {
+        "CAPEC_ID": "6",
+        "CWE_ID": "78"
+    },
+    {
+        "CAPEC_ID": "6",
+        "CWE_ID": "185"
+    },
+    {
+        "CAPEC_ID": "6",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "60",
+        "CWE_ID": "294"
+    },
+    {
+        "CAPEC_ID": "60",
+        "CWE_ID": "290"
+    },
+    {
+        "CAPEC_ID": "60",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "60",
+        "CWE_ID": "384"
+    },
+    {
+        "CAPEC_ID": "60",
+        "CWE_ID": "488"
+    },
+    {
+        "CAPEC_ID": "60",
+        "CWE_ID": "539"
+    },
+    {
+        "CAPEC_ID": "60",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "60",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "60",
+        "CWE_ID": "664"
+    },
+    {
+        "CAPEC_ID": "60",
+        "CWE_ID": "732"
+    },
+    {
+        "CAPEC_ID": "600",
+        "CWE_ID": "522"
+    },
+    {
+        "CAPEC_ID": "600",
+        "CWE_ID": "307"
+    },
+    {
+        "CAPEC_ID": "600",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "600",
+        "CWE_ID": "309"
+    },
+    {
+        "CAPEC_ID": "600",
+        "CWE_ID": "262"
+    },
+    {
+        "CAPEC_ID": "600",
+        "CWE_ID": "263"
+    },
+    {
+        "CAPEC_ID": "600",
+        "CWE_ID": "654"
+    },
+    {
+        "CAPEC_ID": "606",
+        "CWE_ID": "757"
+    },
+    {
+        "CAPEC_ID": "608",
+        "CWE_ID": "327"
+    },
+    {
+        "CAPEC_ID": "609",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "61",
+        "CWE_ID": "384"
+    },
+    {
+        "CAPEC_ID": "61",
+        "CWE_ID": "664"
+    },
+    {
+        "CAPEC_ID": "61",
+        "CWE_ID": "732"
+    },
+    {
+        "CAPEC_ID": "612",
+        "CWE_ID": "201"
+    },
+    {
+        "CAPEC_ID": "612",
+        "CWE_ID": "300"
+    },
+    {
+        "CAPEC_ID": "613",
+        "CWE_ID": "201"
+    },
+    {
+        "CAPEC_ID": "613",
+        "CWE_ID": "300"
+    },
+    {
+        "CAPEC_ID": "614",
+        "CWE_ID": "327"
+    },
+    {
+        "CAPEC_ID": "615",
+        "CWE_ID": "300"
+    },
+    {
+        "CAPEC_ID": "616",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "618",
+        "CWE_ID": "201"
+    },
+    {
+        "CAPEC_ID": "619",
+        "CWE_ID": "201"
+    },
+    {
+        "CAPEC_ID": "62",
+        "CWE_ID": "352"
+    },
+    {
+        "CAPEC_ID": "62",
+        "CWE_ID": "306"
+    },
+    {
+        "CAPEC_ID": "62",
+        "CWE_ID": "664"
+    },
+    {
+        "CAPEC_ID": "62",
+        "CWE_ID": "732"
+    },
+    {
+        "CAPEC_ID": "62",
+        "CWE_ID": "1275"
+    },
+    {
+        "CAPEC_ID": "620",
+        "CWE_ID": "757"
+    },
+    {
+        "CAPEC_ID": "621",
+        "CWE_ID": "201"
+    },
+    {
+        "CAPEC_ID": "622",
+        "CWE_ID": "201"
+    },
+    {
+        "CAPEC_ID": "623",
+        "CWE_ID": "201"
+    },
+    {
+        "CAPEC_ID": "624",
+        "CWE_ID": "1247"
+    },
+    {
+        "CAPEC_ID": "624",
+        "CWE_ID": "1248"
+    },
+    {
+        "CAPEC_ID": "624",
+        "CWE_ID": "1256"
+    },
+    {
+        "CAPEC_ID": "624",
+        "CWE_ID": "1319"
+    },
+    {
+        "CAPEC_ID": "624",
+        "CWE_ID": "1332"
+    },
+    {
+        "CAPEC_ID": "624",
+        "CWE_ID": "1334"
+    },
+    {
+        "CAPEC_ID": "624",
+        "CWE_ID": "1338"
+    },
+    {
+        "CAPEC_ID": "624",
+        "CWE_ID": "1351"
+    },
+    {
+        "CAPEC_ID": "625",
+        "CWE_ID": "1247"
+    },
+    {
+        "CAPEC_ID": "625",
+        "CWE_ID": "1248"
+    },
+    {
+        "CAPEC_ID": "625",
+        "CWE_ID": "1256"
+    },
+    {
+        "CAPEC_ID": "625",
+        "CWE_ID": "1319"
+    },
+    {
+        "CAPEC_ID": "625",
+        "CWE_ID": "1332"
+    },
+    {
+        "CAPEC_ID": "625",
+        "CWE_ID": "1334"
+    },
+    {
+        "CAPEC_ID": "625",
+        "CWE_ID": "1338"
+    },
+    {
+        "CAPEC_ID": "625",
+        "CWE_ID": "1351"
+    },
+    {
+        "CAPEC_ID": "63",
+        "CWE_ID": "79"
+    },
+    {
+        "CAPEC_ID": "63",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "632",
+        "CWE_ID": "1007"
+    },
+    {
+        "CAPEC_ID": "633",
+        "CWE_ID": "287"
+    },
+    {
+        "CAPEC_ID": "633",
+        "CWE_ID": "1270"
+    },
+    {
+        "CAPEC_ID": "634",
+        "CWE_ID": "267"
+    },
+    {
+        "CAPEC_ID": "635",
+        "CWE_ID": "162"
+    },
+    {
+        "CAPEC_ID": "636",
+        "CWE_ID": "506"
+    },
+    {
+        "CAPEC_ID": "637",
+        "CWE_ID": "267"
+    },
+    {
+        "CAPEC_ID": "639",
+        "CWE_ID": "552"
+    },
+    {
+        "CAPEC_ID": "64",
+        "CWE_ID": "177"
+    },
+    {
+        "CAPEC_ID": "64",
+        "CWE_ID": "173"
+    },
+    {
+        "CAPEC_ID": "64",
+        "CWE_ID": "172"
+    },
+    {
+        "CAPEC_ID": "64",
+        "CWE_ID": "73"
+    },
+    {
+        "CAPEC_ID": "64",
+        "CWE_ID": "22"
+    },
+    {
+        "CAPEC_ID": "64",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "64",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "64",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "64",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "640",
+        "CWE_ID": "114"
+    },
+    {
+        "CAPEC_ID": "640",
+        "CWE_ID": "829"
+    },
+    {
+        "CAPEC_ID": "641",
+        "CWE_ID": "706"
+    },
+    {
+        "CAPEC_ID": "642",
+        "CWE_ID": "732"
+    },
+    {
+        "CAPEC_ID": "643",
+        "CWE_ID": "267"
+    },
+    {
+        "CAPEC_ID": "643",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "644",
+        "CWE_ID": "522"
+    },
+    {
+        "CAPEC_ID": "644",
+        "CWE_ID": "836"
+    },
+    {
+        "CAPEC_ID": "644",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "644",
+        "CWE_ID": "294"
+    },
+    {
+        "CAPEC_ID": "644",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "645",
+        "CWE_ID": "522"
+    },
+    {
+        "CAPEC_ID": "645",
+        "CWE_ID": "294"
+    },
+    {
+        "CAPEC_ID": "645",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "646",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "647",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "648",
+        "CWE_ID": "267"
+    },
+    {
+        "CAPEC_ID": "649",
+        "CWE_ID": "46"
+    },
+    {
+        "CAPEC_ID": "65",
+        "CWE_ID": "319"
+    },
+    {
+        "CAPEC_ID": "65",
+        "CWE_ID": "311"
+    },
+    {
+        "CAPEC_ID": "65",
+        "CWE_ID": "318"
+    },
+    {
+        "CAPEC_ID": "65",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "650",
+        "CWE_ID": "287"
+    },
+    {
+        "CAPEC_ID": "650",
+        "CWE_ID": "553"
+    },
+    {
+        "CAPEC_ID": "651",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "652",
+        "CWE_ID": "522"
+    },
+    {
+        "CAPEC_ID": "652",
+        "CWE_ID": "307"
+    },
+    {
+        "CAPEC_ID": "652",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "652",
+        "CWE_ID": "309"
+    },
+    {
+        "CAPEC_ID": "652",
+        "CWE_ID": "262"
+    },
+    {
+        "CAPEC_ID": "652",
+        "CWE_ID": "263"
+    },
+    {
+        "CAPEC_ID": "652",
+        "CWE_ID": "654"
+    },
+    {
+        "CAPEC_ID": "652",
+        "CWE_ID": "294"
+    },
+    {
+        "CAPEC_ID": "652",
+        "CWE_ID": "836"
+    },
+    {
+        "CAPEC_ID": "653",
+        "CWE_ID": "522"
+    },
+    {
+        "CAPEC_ID": "653",
+        "CWE_ID": "307"
+    },
+    {
+        "CAPEC_ID": "653",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "653",
+        "CWE_ID": "309"
+    },
+    {
+        "CAPEC_ID": "653",
+        "CWE_ID": "262"
+    },
+    {
+        "CAPEC_ID": "653",
+        "CWE_ID": "263"
+    },
+    {
+        "CAPEC_ID": "653",
+        "CWE_ID": "654"
+    },
+    {
+        "CAPEC_ID": "654",
+        "CWE_ID": "1021"
+    },
+    {
+        "CAPEC_ID": "657",
+        "CWE_ID": "494"
+    },
+    {
+        "CAPEC_ID": "66",
+        "CWE_ID": "89"
+    },
+    {
+        "CAPEC_ID": "66",
+        "CWE_ID": "1286"
+    },
+    {
+        "CAPEC_ID": "660",
+        "CWE_ID": "829"
+    },
+    {
+        "CAPEC_ID": "661",
+        "CWE_ID": "489"
+    },
+    {
+        "CAPEC_ID": "662",
+        "CWE_ID": "300"
+    },
+    {
+        "CAPEC_ID": "662",
+        "CWE_ID": "494"
+    },
+    {
+        "CAPEC_ID": "663",
+        "CWE_ID": "1037"
+    },
+    {
+        "CAPEC_ID": "663",
+        "CWE_ID": "1303"
+    },
+    {
+        "CAPEC_ID": "663",
+        "CWE_ID": "1264"
+    },
+    {
+        "CAPEC_ID": "664",
+        "CWE_ID": "918"
+    },
+    {
+        "CAPEC_ID": "664",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "665",
+        "CWE_ID": "345"
+    },
+    {
+        "CAPEC_ID": "665",
+        "CWE_ID": "353"
+    },
+    {
+        "CAPEC_ID": "665",
+        "CWE_ID": "288"
+    },
+    {
+        "CAPEC_ID": "665",
+        "CWE_ID": "1188"
+    },
+    {
+        "CAPEC_ID": "665",
+        "CWE_ID": "862"
+    },
+    {
+        "CAPEC_ID": "666",
+        "CWE_ID": "404"
+    },
+    {
+        "CAPEC_ID": "667",
+        "CWE_ID": "290"
+    },
+    {
+        "CAPEC_ID": "668",
+        "CWE_ID": "425"
+    },
+    {
+        "CAPEC_ID": "668",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "668",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "67",
+        "CWE_ID": "120"
+    },
+    {
+        "CAPEC_ID": "67",
+        "CWE_ID": "134"
+    },
+    {
+        "CAPEC_ID": "67",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "67",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "67",
+        "CWE_ID": "680"
+    },
+    {
+        "CAPEC_ID": "67",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "675",
+        "CWE_ID": "1266"
+    },
+    {
+        "CAPEC_ID": "676",
+        "CWE_ID": "943"
+    },
+    {
+        "CAPEC_ID": "676",
+        "CWE_ID": "1286"
+    },
+    {
+        "CAPEC_ID": "679",
+        "CWE_ID": "1222"
+    },
+    {
+        "CAPEC_ID": "679",
+        "CWE_ID": "1252"
+    },
+    {
+        "CAPEC_ID": "679",
+        "CWE_ID": "1257"
+    },
+    {
+        "CAPEC_ID": "679",
+        "CWE_ID": "1260"
+    },
+    {
+        "CAPEC_ID": "679",
+        "CWE_ID": "1274"
+    },
+    {
+        "CAPEC_ID": "679",
+        "CWE_ID": "1282"
+    },
+    {
+        "CAPEC_ID": "679",
+        "CWE_ID": "1312"
+    },
+    {
+        "CAPEC_ID": "679",
+        "CWE_ID": "1316"
+    },
+    {
+        "CAPEC_ID": "679",
+        "CWE_ID": "1326"
+    },
+    {
+        "CAPEC_ID": "68",
+        "CWE_ID": "325"
+    },
+    {
+        "CAPEC_ID": "68",
+        "CWE_ID": "328"
+    },
+    {
+        "CAPEC_ID": "68",
+        "CWE_ID": "1326"
+    },
+    {
+        "CAPEC_ID": "680",
+        "CWE_ID": "1224"
+    },
+    {
+        "CAPEC_ID": "680",
+        "CWE_ID": "1231"
+    },
+    {
+        "CAPEC_ID": "680",
+        "CWE_ID": "1233"
+    },
+    {
+        "CAPEC_ID": "680",
+        "CWE_ID": "1262"
+    },
+    {
+        "CAPEC_ID": "680",
+        "CWE_ID": "1283"
+    },
+    {
+        "CAPEC_ID": "681",
+        "CWE_ID": "1259"
+    },
+    {
+        "CAPEC_ID": "681",
+        "CWE_ID": "1267"
+    },
+    {
+        "CAPEC_ID": "681",
+        "CWE_ID": "1270"
+    },
+    {
+        "CAPEC_ID": "681",
+        "CWE_ID": "1294"
+    },
+    {
+        "CAPEC_ID": "681",
+        "CWE_ID": "1302"
+    },
+    {
+        "CAPEC_ID": "682",
+        "CWE_ID": "1277"
+    },
+    {
+        "CAPEC_ID": "682",
+        "CWE_ID": "1310"
+    },
+    {
+        "CAPEC_ID": "69",
+        "CWE_ID": "250"
+    },
+    {
+        "CAPEC_ID": "69",
+        "CWE_ID": "15"
+    },
+    {
+        "CAPEC_ID": "691",
+        "CWE_ID": "494"
+    },
+    {
+        "CAPEC_ID": "692",
+        "CWE_ID": "494"
+    },
+    {
+        "CAPEC_ID": "693",
+        "CWE_ID": "494"
+    },
+    {
+        "CAPEC_ID": "694",
+        "CWE_ID": "497"
+    },
+    {
+        "CAPEC_ID": "695",
+        "CWE_ID": "494"
+    },
+    {
+        "CAPEC_ID": "695",
+        "CWE_ID": "829"
+    },
+    {
+        "CAPEC_ID": "696",
+        "CWE_ID": "1342"
+    },
+    {
+        "CAPEC_ID": "697",
+        "CWE_ID": "923"
+    },
+    {
+        "CAPEC_ID": "698",
+        "CWE_ID": "507"
+    },
+    {
+        "CAPEC_ID": "698",
+        "CWE_ID": "829"
+    },
+    {
+        "CAPEC_ID": "699",
+        "CWE_ID": "1300"
+    },
+    {
+        "CAPEC_ID": "7",
+        "CWE_ID": "89"
+    },
+    {
+        "CAPEC_ID": "7",
+        "CWE_ID": "209"
+    },
+    {
+        "CAPEC_ID": "7",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "7",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "7",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "7",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "70",
+        "CWE_ID": "521"
+    },
+    {
+        "CAPEC_ID": "70",
+        "CWE_ID": "262"
+    },
+    {
+        "CAPEC_ID": "70",
+        "CWE_ID": "263"
+    },
+    {
+        "CAPEC_ID": "70",
+        "CWE_ID": "798"
+    },
+    {
+        "CAPEC_ID": "70",
+        "CWE_ID": "654"
+    },
+    {
+        "CAPEC_ID": "70",
+        "CWE_ID": "308"
+    },
+    {
+        "CAPEC_ID": "70",
+        "CWE_ID": "309"
+    },
+    {
+        "CAPEC_ID": "701",
+        "CWE_ID": "294"
+    },
+    {
+        "CAPEC_ID": "701",
+        "CWE_ID": "345"
+    },
+    {
+        "CAPEC_ID": "702",
+        "CWE_ID": "1296"
+    },
+    {
+        "CAPEC_ID": "71",
+        "CWE_ID": "176"
+    },
+    {
+        "CAPEC_ID": "71",
+        "CWE_ID": "179"
+    },
+    {
+        "CAPEC_ID": "71",
+        "CWE_ID": "180"
+    },
+    {
+        "CAPEC_ID": "71",
+        "CWE_ID": "173"
+    },
+    {
+        "CAPEC_ID": "71",
+        "CWE_ID": "172"
+    },
+    {
+        "CAPEC_ID": "71",
+        "CWE_ID": "184"
+    },
+    {
+        "CAPEC_ID": "71",
+        "CWE_ID": "183"
+    },
+    {
+        "CAPEC_ID": "71",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "71",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "71",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "71",
+        "CWE_ID": "692"
+    },
+    {
+        "CAPEC_ID": "72",
+        "CWE_ID": "173"
+    },
+    {
+        "CAPEC_ID": "72",
+        "CWE_ID": "177"
+    },
+    {
+        "CAPEC_ID": "72",
+        "CWE_ID": "172"
+    },
+    {
+        "CAPEC_ID": "72",
+        "CWE_ID": "73"
+    },
+    {
+        "CAPEC_ID": "72",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "72",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "73",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "73",
+        "CWE_ID": "184"
+    },
+    {
+        "CAPEC_ID": "73",
+        "CWE_ID": "96"
+    },
+    {
+        "CAPEC_ID": "73",
+        "CWE_ID": "348"
+    },
+    {
+        "CAPEC_ID": "73",
+        "CWE_ID": "116"
+    },
+    {
+        "CAPEC_ID": "73",
+        "CWE_ID": "350"
+    },
+    {
+        "CAPEC_ID": "73",
+        "CWE_ID": "86"
+    },
+    {
+        "CAPEC_ID": "73",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "74",
+        "CWE_ID": "372"
+    },
+    {
+        "CAPEC_ID": "74",
+        "CWE_ID": "315"
+    },
+    {
+        "CAPEC_ID": "74",
+        "CWE_ID": "353"
+    },
+    {
+        "CAPEC_ID": "74",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "74",
+        "CWE_ID": "1245"
+    },
+    {
+        "CAPEC_ID": "74",
+        "CWE_ID": "1253"
+    },
+    {
+        "CAPEC_ID": "74",
+        "CWE_ID": "1265"
+    },
+    {
+        "CAPEC_ID": "74",
+        "CWE_ID": "1271"
+    },
+    {
+        "CAPEC_ID": "75",
+        "CWE_ID": "349"
+    },
+    {
+        "CAPEC_ID": "75",
+        "CWE_ID": "99"
+    },
+    {
+        "CAPEC_ID": "75",
+        "CWE_ID": "77"
+    },
+    {
+        "CAPEC_ID": "75",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "75",
+        "CWE_ID": "353"
+    },
+    {
+        "CAPEC_ID": "75",
+        "CWE_ID": "354"
+    },
+    {
+        "CAPEC_ID": "76",
+        "CWE_ID": "23"
+    },
+    {
+        "CAPEC_ID": "76",
+        "CWE_ID": "22"
+    },
+    {
+        "CAPEC_ID": "76",
+        "CWE_ID": "73"
+    },
+    {
+        "CAPEC_ID": "76",
+        "CWE_ID": "77"
+    },
+    {
+        "CAPEC_ID": "76",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "76",
+        "CWE_ID": "348"
+    },
+    {
+        "CAPEC_ID": "76",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "76",
+        "CWE_ID": "272"
+    },
+    {
+        "CAPEC_ID": "76",
+        "CWE_ID": "59"
+    },
+    {
+        "CAPEC_ID": "76",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "76",
+        "CWE_ID": "15"
+    },
+    {
+        "CAPEC_ID": "77",
+        "CWE_ID": "15"
+    },
+    {
+        "CAPEC_ID": "77",
+        "CWE_ID": "94"
+    },
+    {
+        "CAPEC_ID": "77",
+        "CWE_ID": "96"
+    },
+    {
+        "CAPEC_ID": "77",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "77",
+        "CWE_ID": "302"
+    },
+    {
+        "CAPEC_ID": "77",
+        "CWE_ID": "473"
+    },
+    {
+        "CAPEC_ID": "77",
+        "CWE_ID": "1321"
+    },
+    {
+        "CAPEC_ID": "78",
+        "CWE_ID": "180"
+    },
+    {
+        "CAPEC_ID": "78",
+        "CWE_ID": "181"
+    },
+    {
+        "CAPEC_ID": "78",
+        "CWE_ID": "173"
+    },
+    {
+        "CAPEC_ID": "78",
+        "CWE_ID": "172"
+    },
+    {
+        "CAPEC_ID": "78",
+        "CWE_ID": "73"
+    },
+    {
+        "CAPEC_ID": "78",
+        "CWE_ID": "22"
+    },
+    {
+        "CAPEC_ID": "78",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "78",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "78",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "78",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "79",
+        "CWE_ID": "173"
+    },
+    {
+        "CAPEC_ID": "79",
+        "CWE_ID": "180"
+    },
+    {
+        "CAPEC_ID": "79",
+        "CWE_ID": "181"
+    },
+    {
+        "CAPEC_ID": "79",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "79",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "79",
+        "CWE_ID": "73"
+    },
+    {
+        "CAPEC_ID": "79",
+        "CWE_ID": "22"
+    },
+    {
+        "CAPEC_ID": "79",
+        "CWE_ID": "185"
+    },
+    {
+        "CAPEC_ID": "79",
+        "CWE_ID": "200"
+    },
+    {
+        "CAPEC_ID": "79",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "79",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "8",
+        "CWE_ID": "120"
+    },
+    {
+        "CAPEC_ID": "8",
+        "CWE_ID": "119"
+    },
+    {
+        "CAPEC_ID": "8",
+        "CWE_ID": "118"
+    },
+    {
+        "CAPEC_ID": "8",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "8",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "8",
+        "CWE_ID": "680"
+    },
+    {
+        "CAPEC_ID": "8",
+        "CWE_ID": "733"
+    },
+    {
+        "CAPEC_ID": "8",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "80",
+        "CWE_ID": "173"
+    },
+    {
+        "CAPEC_ID": "80",
+        "CWE_ID": "172"
+    },
+    {
+        "CAPEC_ID": "80",
+        "CWE_ID": "180"
+    },
+    {
+        "CAPEC_ID": "80",
+        "CWE_ID": "181"
+    },
+    {
+        "CAPEC_ID": "80",
+        "CWE_ID": "73"
+    },
+    {
+        "CAPEC_ID": "80",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "80",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "80",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "80",
+        "CWE_ID": "692"
+    },
+    {
+        "CAPEC_ID": "81",
+        "CWE_ID": "117"
+    },
+    {
+        "CAPEC_ID": "81",
+        "CWE_ID": "93"
+    },
+    {
+        "CAPEC_ID": "81",
+        "CWE_ID": "75"
+    },
+    {
+        "CAPEC_ID": "81",
+        "CWE_ID": "221"
+    },
+    {
+        "CAPEC_ID": "81",
+        "CWE_ID": "96"
+    },
+    {
+        "CAPEC_ID": "81",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "81",
+        "CWE_ID": "150"
+    },
+    {
+        "CAPEC_ID": "81",
+        "CWE_ID": "276"
+    },
+    {
+        "CAPEC_ID": "81",
+        "CWE_ID": "279"
+    },
+    {
+        "CAPEC_ID": "81",
+        "CWE_ID": "116"
+    },
+    {
+        "CAPEC_ID": "83",
+        "CWE_ID": "91"
+    },
+    {
+        "CAPEC_ID": "83",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "83",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "83",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "84",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "84",
+        "CWE_ID": "707"
+    },
+    {
+        "CAPEC_ID": "85",
+        "CWE_ID": "79"
+    },
+    {
+        "CAPEC_ID": "85",
+        "CWE_ID": "113"
+    },
+    {
+        "CAPEC_ID": "85",
+        "CWE_ID": "348"
+    },
+    {
+        "CAPEC_ID": "85",
+        "CWE_ID": "96"
+    },
+    {
+        "CAPEC_ID": "85",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "85",
+        "CWE_ID": "116"
+    },
+    {
+        "CAPEC_ID": "85",
+        "CWE_ID": "184"
+    },
+    {
+        "CAPEC_ID": "85",
+        "CWE_ID": "86"
+    },
+    {
+        "CAPEC_ID": "85",
+        "CWE_ID": "692"
+    },
+    {
+        "CAPEC_ID": "86",
+        "CWE_ID": "80"
+    },
+    {
+        "CAPEC_ID": "87",
+        "CWE_ID": "425"
+    },
+    {
+        "CAPEC_ID": "87",
+        "CWE_ID": "285"
+    },
+    {
+        "CAPEC_ID": "87",
+        "CWE_ID": "693"
+    },
+    {
+        "CAPEC_ID": "88",
+        "CWE_ID": "78"
+    },
+    {
+        "CAPEC_ID": "88",
+        "CWE_ID": "88"
+    },
+    {
+        "CAPEC_ID": "88",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "88",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "89",
+        "CWE_ID": "346"
+    },
+    {
+        "CAPEC_ID": "89",
+        "CWE_ID": "350"
+    },
+    {
+        "CAPEC_ID": "9",
+        "CWE_ID": "120"
+    },
+    {
+        "CAPEC_ID": "9",
+        "CWE_ID": "118"
+    },
+    {
+        "CAPEC_ID": "9",
+        "CWE_ID": "119"
+    },
+    {
+        "CAPEC_ID": "9",
+        "CWE_ID": "74"
+    },
+    {
+        "CAPEC_ID": "9",
+        "CWE_ID": "20"
+    },
+    {
+        "CAPEC_ID": "9",
+        "CWE_ID": "680"
+    },
+    {
+        "CAPEC_ID": "9",
+        "CWE_ID": "733"
+    },
+    {
+        "CAPEC_ID": "9",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "90",
+        "CWE_ID": "301"
+    },
+    {
+        "CAPEC_ID": "90",
+        "CWE_ID": "303"
+    },
+    {
+        "CAPEC_ID": "92",
+        "CWE_ID": "190"
+    },
+    {
+        "CAPEC_ID": "92",
+        "CWE_ID": "128"
+    },
+    {
+        "CAPEC_ID": "92",
+        "CWE_ID": "120"
+    },
+    {
+        "CAPEC_ID": "92",
+        "CWE_ID": "122"
+    },
+    {
+        "CAPEC_ID": "92",
+        "CWE_ID": "196"
+    },
+    {
+        "CAPEC_ID": "92",
+        "CWE_ID": "680"
+    },
+    {
+        "CAPEC_ID": "92",
+        "CWE_ID": "697"
+    },
+    {
+        "CAPEC_ID": "93",
+        "CWE_ID": "117"
+    },
+    {
+        "CAPEC_ID": "93",
+        "CWE_ID": "75"
+    },
+    {
+        "CAPEC_ID": "93",
+        "CWE_ID": "150"
+    },
+    {
+        "CAPEC_ID": "94",
+        "CWE_ID": "300"
+    },
+    {
+        "CAPEC_ID": "94",
+        "CWE_ID": "290"
+    },
+    {
+        "CAPEC_ID": "94",
+        "CWE_ID": "593"
+    },
+    {
+        "CAPEC_ID": "94",
+        "CWE_ID": "287"
+    },
+    {
+        "CAPEC_ID": "94",
+        "CWE_ID": "294"
+    },
+    {
+        "CAPEC_ID": "95",
+        "CWE_ID": "538"
+    },
+    {
+        "CAPEC_ID": "96",
+        "CWE_ID": "589"
+    },
+    {
+        "CAPEC_ID": "97",
+        "CWE_ID": "327"
+    },
+    {
+        "CAPEC_ID": "97",
+        "CWE_ID": "1204"
+    },
+    {
+        "CAPEC_ID": "97",
+        "CWE_ID": "1240"
+    },
+    {
+        "CAPEC_ID": "97",
+        "CWE_ID": "1241"
+    },
+    {
+        "CAPEC_ID": "97",
+        "CWE_ID": "1279"
+    },
+    {
+        "CAPEC_ID": "98",
+        "CWE_ID": "451"
+    }
+]
