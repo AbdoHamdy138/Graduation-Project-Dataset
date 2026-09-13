@@ -34,18 +34,43 @@ def get_text(element):
     texts = [t.strip() for t in element.itertext() if t.strip()]
     return " ".join(texts)
 
-def parse_capec():
+def extract_global_references():
+    ns_capec = {'capec': 'http://capec.mitre.org/capec-3'}
+    ns_cwe = {'cwe': 'http://cwe.mitre.org/cwe-7'}
+    ext_refs = {}
+    
+    try:
+        tree = ET.parse(CAPEC_XML)
+        root = tree.getroot()
+        for ext_ref in root.findall('.//capec:External_References/capec:External_Reference', ns_capec):
+            ref_id = ext_ref.attrib.get('Reference_ID')
+            title = get_text(ext_ref.find('capec:Title', ns_capec))
+            url_el = ext_ref.find('capec:URL', ns_capec)
+            url = get_text(url_el) if url_el is not None else ""
+            ext_refs[ref_id] = {'Title': title, 'URL': url}
+    except Exception as e:
+        print(f"Error parsing CAPEC refs: {e}")
+
+    try:
+        tree = ET.parse(CWE_XML)
+        root = tree.getroot()
+        for ext_ref in root.findall('.//cwe:External_References/cwe:External_Reference', ns_cwe):
+            ref_id = ext_ref.attrib.get('Reference_ID')
+            title = get_text(ext_ref.find('cwe:Title', ns_cwe))
+            url_el = ext_ref.find('cwe:URL', ns_cwe)
+            url = get_text(url_el) if url_el is not None else ""
+            ext_refs[ref_id] = {'Title': title, 'URL': url}
+    except Exception as e:
+        print(f"Error parsing CWE refs: {e}")
+        
+    return ext_refs
+
+def parse_capec(ext_refs):
     tree = ET.parse(CAPEC_XML)
     root = tree.getroot()
     ns = {'capec': 'http://capec.mitre.org/capec-3'}
     
-    ext_refs = {}
-    for ext_ref in root.findall('.//capec:External_References/capec:External_Reference', ns):
-        ref_id = ext_ref.attrib.get('Reference_ID')
-        title = get_text(ext_ref.find('capec:Title', ns))
-        url_el = ext_ref.find('capec:URL', ns)
-        url = get_text(url_el) if url_el is not None else ""
-        ext_refs[ref_id] = {'Title': title, 'URL': url}
+    # External references are now passed in globally.
 
     capec_list = []
     technique_capec_mapping = []
@@ -129,18 +154,12 @@ def parse_capec():
         
     return capec_list, technique_capec_mapping, capec_cwe_mapping
 
-def parse_cwe(capec_cwe_mapping):
+def parse_cwe(capec_cwe_mapping, ext_refs):
     tree = ET.parse(CWE_XML)
     root = tree.getroot()
     ns = {'cwe': 'http://cwe.mitre.org/cwe-7'}
     
-    ext_refs = {}
-    for ext_ref in root.findall('.//cwe:External_References/cwe:External_Reference', ns):
-        ref_id = ext_ref.attrib.get('Reference_ID')
-        title = get_text(ext_ref.find('cwe:Title', ns))
-        url_el = ext_ref.find('cwe:URL', ns)
-        url = get_text(url_el) if url_el is not None else ""
-        ext_refs[ref_id] = {'Title': title, 'URL': url}
+    # External references are now passed in globally.
 
     cwe_to_capec = {}
     for mapping in capec_cwe_mapping:
@@ -225,10 +244,14 @@ def parse_cwe(capec_cwe_mapping):
     return cwe_list
 
 def main():
+    print("Extracting global references...")
+    ext_refs = extract_global_references()
+    print(f"Found {len(ext_refs)} global references.")
+    
     print("Parsing CAPEC...")
-    capec_list, technique_capec_mapping, capec_cwe_mapping = parse_capec()
+    capec_list, technique_capec_mapping, capec_cwe_mapping = parse_capec(ext_refs)
     print("Parsing CWE...")
-    cwe_list = parse_cwe(capec_cwe_mapping)
+    cwe_list = parse_cwe(capec_cwe_mapping, ext_refs)
     
     # Sanitize lists
     capec_list = sanitize(capec_list)
